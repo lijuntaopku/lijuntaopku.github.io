@@ -1,4 +1,4 @@
-### Creative and Artistic Writing Via Text Generation
+### Reporters
 Juntao Li and [Rui Yan](http://ruiyan.me/)<br>
 [WICT, Peking University](http://www.wict.pku.edu.cn/)
 
