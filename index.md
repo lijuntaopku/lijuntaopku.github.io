@@ -23,7 +23,7 @@ Juntao Li<br>
 
 [4] Danyang Liu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Meng-Hsuan Yu, Ziming Huang, Gongshen Liu, Dongyan Zhao and Rui Yan. A Character-Centric Neural Model for Automated Story Generation. In **AAAI'20**. Full paper. [[pdf]] (**CCF A**)
 
-[5] Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. IPM (**CCF B**)
+[5] Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. **IPM,2020**. Journal. (**CCF B**)
 
 
 
