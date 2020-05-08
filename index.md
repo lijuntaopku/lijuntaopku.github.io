@@ -48,7 +48,7 @@
 
 &emsp;[1] **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In EMNLP'18. Full paper. [[pdf]](https://www.aclweb.org/anthology/D18-1423.pdf) (**CCF B**)
 
-&emsp;[2] **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]] (http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf)
+&emsp;[2] **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]](http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf)
 
 
 
@@ -75,8 +75,10 @@ Undergraduate
 
 ### Academic Services (Program Committee or Reviewer)
 &emsp;2020: ACL, AAAI, TKDE, CL, TALLIP, COLING, EMNLP, AACL, CCL
-&emsp;2019(secondary reviewers):
-&emsp;2018(secondary reviewers):
+
+&emsp;2019(secondary reviewers): ACL, KDD, EMNLP, CoNLL, AAAI
+
+&emsp;2018(secondary reviewers): BigData, CIKM, COLING, KDD, IJCAI, NLPCC
 
 ### Education
 
