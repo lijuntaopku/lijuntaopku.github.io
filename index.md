@@ -20,6 +20,11 @@ Juntao Li(http://ruiyan.me/)<br>
 
 
 #### Undergraduate
+[1] Zhiwei Ma, **Juntao Li**, Chunyu Liu, Chenglin Sun and Mi Zhou, High-Pressure Spectroscopic Investigation on Proton Transfer in Squaric Acid and 4,4’-Bipyridine, Co-crystal, **Scientific Report**. [[pdf]](https://www.nature.com/articles/s41598-017-04980-3.pdf)
+
+[2] **Juntao Li**, Zihe Zhao, Ren Pin, Chenglin Sun, Mi Zhou. Covalent Symmetrization of the Hexagonal Networks of Trimesic Acids at High Pressure, International Journal for Light and Electron Optics, **Optik**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S003040261630184X)
+
+[3] Yuanzheng Chen, Zhiwei Men, **Juntao Li**, Zhanlong Li, Shengnan Sun, Chenglin Sun, Shuqin Gao, Zuowei Li, Mi Zhou. Anharmonic Coupling between Fundamental Modes in Tetramethylurea, Journal of Chemical Physics, **JCP**. [[pdf]](https://dr.ntu.edu.sg/bitstream/10356/98746/1/Anharmonic%20coupling%20between%20fundamental%20modes%20in%20tetramethylurea.pdf)
 
 
 ### Talks
