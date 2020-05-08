@@ -70,8 +70,12 @@ Undergraduate
 
 
 ### Selected Awards
+&emsp;AAAI Tutorial Grant<br>
 &emsp;National Scholarship, Peking University<br>
 &emsp;Pacemaker to Merit Student, Peking University<br>
+&emsp;The Hailiang Scholarship, Peking University<br>
+&emsp;The Outstanding Scientific Research Award, Peking University<br>
+&emsp;The Weng Hongwu Research Grant, Peking University<br>
 
 
 ### Academic Services (Program Committee or Reviewer)
