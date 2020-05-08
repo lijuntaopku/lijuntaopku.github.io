@@ -1,5 +1,5 @@
 ### About Me
-Juntao Li(http://ruiyan.me/)<br>
+Juntao Li<br>
 [WICT, Peking University](http://www.wict.pku.edu.cn/)
 
 ### Research Interests
@@ -12,11 +12,11 @@ Juntao Li(http://ruiyan.me/)<br>
 
 2020
 
-[1] Juntao Li, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model.                                         IJCAI'20 (CCF A)
+[1] **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model.                                         IJCAI'20 (CCF A)
 
-[2] Juntao Li, Chang Liu, Jian Wang, Lidong Bing, Hongsong Li, Xiaozhong Liu, Dongyan Zhao and Rui Yan. Cross-Lingual Low-Resource Set-to-Description Retrieval for Global E-Commerce. In AAAI'20. Full paper. [To Appear] (CCF Rank A)
+[2] **Juntao Li**, Chang Liu, Jian Wang, Lidong Bing, Hongsong Li, Xiaozhong Liu, Dongyan Zhao and Rui Yan. Cross-Lingual Low-Resource Set-to-Description Retrieval for Global E-Commerce. In AAAI'20. Full paper. [To Appear] (CCF Rank A)
 
-[3] Meng-Hsuan Yu, Juntao Li, Danyang Liu, Bo Tang, Haisong Zhang, Dongyan Zhao and Rui Yan. Draft and Edit: Automatic Storytelling Through Multi-Pass Hierarchical Conditional Variational Autoencoder. In AAAI'20. Full paper. [To Appear] (CCF Rank A)
+[3] Meng-Hsuan Yu<sup>*</sup>, **Juntao Li<sup>*</sup>**, Danyang Liu, Bo Tang, Haisong Zhang, Dongyan Zhao and Rui Yan. Draft and Edit: Automatic Storytelling Through Multi-Pass Hierarchical Conditional Variational Autoencoder. In AAAI'20. Full paper. [To Appear] (CCF Rank A)
 
 [4] Danyang Liu, Juntao Li, Meng-Hsuan Yu, Ziming Huang, Gongshen Liu, Dongyan Zhao and Rui Yan. A Character-Centric Neural Model for Automated Story Generation. In AAAI'20. Full paper. [To Appear] (CCF Rank A)
 
