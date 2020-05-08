@@ -25,9 +25,7 @@ Juntao Li(http://ruiyan.me/)<br>
 ### Talks
 [1] **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In AAAI'20. Tutorial. (**CCF Rank A**)
 
-[2] Background knowledge<br>
-    2.1. Concepts, problem formulation, and task statements 2.2. Deep learning for long text generation<br>
-    2.2. Deep learning for long text generation<br>
+[2] **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In IJCAI'19. Tutorial. (**CCF Rank A**)
     
 
 
