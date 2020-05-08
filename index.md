@@ -23,7 +23,9 @@ Juntao Li(http://ruiyan.me/)<br>
 [5] Lianhai Miao, Da Cao, Juntao Li, Weili Guan. Multi-modal Product Title Compression.         IPM (CCF B)
 
 
+
 2019
+
 [1] Zhangming Chan, Juntao Li, Xiaopeng Yang, Xiuying Chen, Wenpeng Hu, Dongyan Zhao and Rui Yan. Modeling Personalization in Countinuous Space for Response Generation via Augmented Wasserstein Autoencoders. In EMNLP'19. Full paper.
 
 [2] Zhangming Chan, Xiuying Chen, Yongliang Wang, Juntao Li, Zhiqiang Zhang, Kun Gai, Dongyan Zhao and Rui Yan. Stick to the Facts: Learning towards a Fidelity-oriented E-Commerce Product Description Generation. In EMNLP'19. Full paper.
@@ -79,7 +81,5 @@ Undergraduate
 ### Experiences
 
 ### Contact
-The latest slides are avilable [here](AAAI20-tutorial.pdf).<br>
-This tutorial is also presented on IJCAI'19, Macau, and the previous material can be found [here](https://lijuntaopku.github.io/ijcai2019tutorial/).<br>
-Any questions are welcomed to contact <lijuntao@pku.edu.cn> and <ruiyan@pku.edu.cn>.
+lijuntao@pku.edu.cn
 
