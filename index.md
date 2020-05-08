@@ -1,4 +1,3 @@
-<font face="Times">WORDS
 ### About Me
 Juntao Li(http://ruiyan.me/)<br>
 [WICT, Peking University](http://www.wict.pku.edu.cn/)
@@ -20,7 +19,7 @@ Juntao Li(http://ruiyan.me/)<br>
 
 
 
-#### Undergraduate
+##### Undergraduate
 [1] Zhiwei Ma, **Juntao Li**, Chunyu Liu, Chenglin Sun and Mi Zhou, High-Pressure Spectroscopic Investigation on Proton Transfer in Squaric Acid and 4,4’-Bipyridine, Co-crystal, **Scientific Report**. [[pdf]](https://www.nature.com/articles/s41598-017-04980-3.pdf)
 
 [2] **Juntao Li**, Zihe Zhao, Ren Pin, Chenglin Sun, Mi Zhou. Covalent Symmetrization of the Hexagonal Networks of Trimesic Acids at High Pressure, International Journal for Light and Electron Optics, **Optik**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S003040261630184X)
@@ -54,4 +53,4 @@ Juntao Li(http://ruiyan.me/)<br>
 The latest slides are avilable [here](AAAI20-tutorial.pdf).<br>
 This tutorial is also presented on IJCAI'19, Macau, and the previous material can be found [here](https://lijuntaopku.github.io/ijcai2019tutorial/).<br>
 Any questions are welcomed to contact <lijuntao@pku.edu.cn> and <ruiyan@pku.edu.cn>.
-</font>
+
