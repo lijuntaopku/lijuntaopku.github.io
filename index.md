@@ -1,5 +1,5 @@
 ### About Me
-Juntao Li<br>
+&emsp;Juntao Li<br>
 [WICT, Peking University](http://www.wict.pku.edu.cn/)
 
 ### Research Interests
@@ -29,36 +29,36 @@ Juntao Li<br>
 
 2019
 
-[1] Zhangming Chan<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Xiaopeng Yang, Xiuying Chen, Wenpeng Hu, Dongyan Zhao and Rui Yan. Modeling Personalization in Countinuous Space for Response Generation via Augmented Wasserstein Autoencoders. In **EMNLP'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D19-1201.pdf) (**CCF B**)
+&emsp;[1] Zhangming Chan<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Xiaopeng Yang, Xiuying Chen, Wenpeng Hu, Dongyan Zhao and Rui Yan. Modeling Personalization in Countinuous Space for Response Generation via Augmented Wasserstein Autoencoders. In **EMNLP'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D19-1201.pdf) (**CCF B**)
 
-[2] Zhangming Chan, Xiuying Chen, Yongliang Wang, **Juntao Li**, Zhiqiang Zhang, Kun Gai, Dongyan Zhao and Rui Yan. Stick to the Facts: Learning towards a Fidelity-oriented E-Commerce Product Description Generation. In **EMNLP'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D19-1501.pdf) (**CCF B**)
+&emsp;[2] Zhangming Chan, Xiuying Chen, Yongliang Wang, **Juntao Li**, Zhiqiang Zhang, Kun Gai, Dongyan Zhao and Rui Yan. Stick to the Facts: Learning towards a Fidelity-oriented E-Commerce Product Description Generation. In **EMNLP'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D19-1501.pdf) (**CCF B**)
 
-[3] Zhengwei Tao, Waiman Si, **Juntao Li**, Dongyan Zhao and Rui Yan. Boosting Variational Generative Model via Condition Enhancing and Lexical-Editing. In **PRICAI'19**. Full paper. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-29908-8_30)
+&emsp;[3] Zhengwei Tao, Waiman Si, **Juntao Li**, Dongyan Zhao and Rui Yan. Boosting Variational Generative Model via Condition Enhancing and Lexical-Editing. In **PRICAI'19**. Full paper. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-29908-8_30)
 
-[4] Dingmin Wang, Meng Fang, Yan Song, **Juntao Li**. Bridging the Gap: Improve Part-of-speech Tagging for Chinese Social Media Texts with Foreign Words. In **IJCAI'19**. Workshop. [[pdf]](https://www.aclweb.org/anthology/W19-5803.pdf) 
+&emsp;[4] Dingmin Wang, Meng Fang, Yan Song, **Juntao Li**. Bridging the Gap: Improve Part-of-speech Tagging for Chinese Social Media Texts with Foreign Words. In **IJCAI'19**. Workshop. [[pdf]](https://www.aclweb.org/anthology/W19-5803.pdf) 
 
-[5] Lisong Qiu, **Juntao Li**, Wei Bi, Dongyan Zhao and Rui Yan. Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple References. In **ACL'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/P19-1372.pdf) (**CCF A**)
+&emsp;[5] Lisong Qiu, **Juntao Li**, Wei Bi, Dongyan Zhao and Rui Yan. Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple References. In **ACL'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/P19-1372.pdf) (**CCF A**)
 
-[6] **Juntao Li**, Lisong Qiu, Bo Tang, Dongmin Chen, Dongyan Zhao and Rui Yan. Insufficient Data Can Also Rock! Learning to Converse Using Smaller Data with Augmentation. In **AAAI'19**. Full paper. [[pdf]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4641) (**CCF A**)
+&emsp;[6] **Juntao Li**, Lisong Qiu, Bo Tang, Dongmin Chen, Dongyan Zhao and Rui Yan. Insufficient Data Can Also Rock! Learning to Converse Using Smaller Data with Augmentation. In **AAAI'19**. Full paper. [[pdf]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4641) (**CCF A**)
 
-[7] **Juntao Li**, Lidong Bing, Lisong Qiu, Dongmin Chen, Dongyan Zhao and Rui Yan. Learning to Write Creative Stories with Thematic Consistency. In **AAAI'19**. Full paper. [[pdf]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3993) (**CCF A**)
+&emsp;[7] **Juntao Li**, Lidong Bing, Lisong Qiu, Dongmin Chen, Dongyan Zhao and Rui Yan. Learning to Write Creative Stories with Thematic Consistency. In **AAAI'19**. Full paper. [[pdf]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3993) (**CCF A**)
 
 
 2018
 
-[1] **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In EMNLP'18. Full paper. [[pdf]](https://www.aclweb.org/anthology/D18-1423.pdf) (**CCF B**)
+&emsp;[1] **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In EMNLP'18. Full paper. [[pdf]](https://www.aclweb.org/anthology/D18-1423.pdf) (**CCF B**)
 
-[2] **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]] (http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf)
+&emsp;[2] **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]] (http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf)
 
 
 
 Undergraduate
 
-[1] Zhiwei Ma, **Juntao Li**, Chunyu Liu, Chenglin Sun and Mi Zhou, High-Pressure Spectroscopic Investigation on Proton Transfer in Squaric Acid and 4,4’-Bipyridine, Co-crystal, **Scientific Report**. [[pdf]](https://www.nature.com/articles/s41598-017-04980-3.pdf)
+&emsp;[1] Zhiwei Ma, **Juntao Li**, Chunyu Liu, Chenglin Sun and Mi Zhou, High-Pressure Spectroscopic Investigation on Proton Transfer in Squaric Acid and 4,4’-Bipyridine, Co-crystal, **Scientific Report**. [[pdf]](https://www.nature.com/articles/s41598-017-04980-3.pdf)
 
-[2] **Juntao Li**, Zihe Zhao, Ren Pin, Chenglin Sun, Mi Zhou. Covalent Symmetrization of the Hexagonal Networks of Trimesic Acids at High Pressure, International Journal for Light and Electron Optics, **Optik**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S003040261630184X)
+&emsp;[2] **Juntao Li**, Zihe Zhao, Ren Pin, Chenglin Sun, Mi Zhou. Covalent Symmetrization of the Hexagonal Networks of Trimesic Acids at High Pressure, International Journal for Light and Electron Optics, **Optik**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S003040261630184X)
 
-[3] Yuanzheng Chen, Zhiwei Men, **Juntao Li**, Zhanlong Li, Shengnan Sun, Chenglin Sun, Shuqin Gao, Zuowei Li, Mi Zhou. Anharmonic Coupling between Fundamental Modes in Tetramethylurea, Journal of Chemical Physics, **JCP**. [[pdf]](https://dr.ntu.edu.sg/bitstream/10356/98746/1/Anharmonic%20coupling%20between%20fundamental%20modes%20in%20tetramethylurea.pdf)
+&emsp;[3] Yuanzheng Chen, Zhiwei Men, **Juntao Li**, Zhanlong Li, Shengnan Sun, Chenglin Sun, Shuqin Gao, Zuowei Li, Mi Zhou. Anharmonic Coupling between Fundamental Modes in Tetramethylurea, Journal of Chemical Physics, **JCP**. [[pdf]](https://dr.ntu.edu.sg/bitstream/10356/98746/1/Anharmonic%20coupling%20between%20fundamental%20modes%20in%20tetramethylurea.pdf)
 
 
 
@@ -74,9 +74,9 @@ Undergraduate
 
 
 ### Academic Services (Program Committee or Reviewer)
-2020: ACL, AAAI, TKDE, CL, TALLIP, COLING, EMNLP, AACL, CCL
-2019(secondary reviewers):
-2018(secondary reviewers):
+&emsp;2020: ACL, AAAI, TKDE, CL, TALLIP, COLING, EMNLP, AACL, CCL
+&emsp;2019(secondary reviewers):
+&emsp;2018(secondary reviewers):
 
 ### Education
 
