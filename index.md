@@ -1,10 +1,10 @@
 ### About Me
-To apper
+To appear
 
 ### Research Interests
-Natural Language Generation
-Dialogue System
-Cross-lingual \& Cross-domain transfer
+&emsp;Natural Language Generation<br>
+&emsp;Dialogue System<br>
+&emsp;Cross-lingual \& Cross-domain transfer
 
 ### Tutorials and Talks
 &emsp;[1] **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
@@ -70,8 +70,8 @@ Undergraduate
 
 
 ### Selected Awards
-
-
+&emsp;National Scholarship, Peking University<br>
+&emsp;Pacemaker to Merit Student, Peking University<br>
 
 
 ### Academic Services (Program Committee or Reviewer)
