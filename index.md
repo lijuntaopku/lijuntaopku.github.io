@@ -4,7 +4,7 @@ To appear
 ### Research Interests
 &emsp;Natural Language Generation<br>
 &emsp;Dialogue System<br>
-&emsp;Cross-lingual \& Cross-domain transfer
+&emsp;Cross-lingual & Cross-domain transfer
 
 ### Tutorials and Talks
 &emsp;[1] **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
