@@ -5,7 +5,7 @@ Juntao Li<br>
 ### Research Interests
 
 
-### Talks
+### Tutorials and Talks
 [1] **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
 
 [2] **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
@@ -15,40 +15,40 @@ Juntao Li<br>
 
 2020
 
-[1] **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]] (**CCF A**)
+[1] **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]]() (**CCF A**)
 
-[2] **Juntao Li**, Chang Liu, Jian Wang, Lidong Bing, Hongsong Li, Xiaozhong Liu, Dongyan Zhao and Rui Yan. Cross-Lingual Low-Resource Set-to-Description Retrieval for Global E-Commerce. In **AAAI'20**. Full paper. [[pdf]] (**CCF A**)
+[2] **Juntao Li**, Chang Liu, Jian Wang, Lidong Bing, Hongsong Li, Xiaozhong Liu, Dongyan Zhao and Rui Yan. Cross-Lingual Low-Resource Set-to-Description Retrieval for Global E-Commerce. In **AAAI'20**. Full paper. [[pdf]]() (**CCF A**)
 
-[3] Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Danyang Liu, Bo Tang, Haisong Zhang, Dongyan Zhao and Rui Yan. Draft and Edit: Automatic Storytelling Through Multi-Pass Hierarchical Conditional Variational Autoencoder. In **AAAI'20**. Full paper. [[pdf]] (**CCF A**)
+[3] Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Danyang Liu, Bo Tang, Haisong Zhang, Dongyan Zhao and Rui Yan. Draft and Edit: Automatic Storytelling Through Multi-Pass Hierarchical Conditional Variational Autoencoder. In **AAAI'20**. Full paper. [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-YuM.8133.pdf) (**CCF A**)
 
-[4] Danyang Liu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Meng-Hsuan Yu, Ziming Huang, Gongshen Liu, Dongyan Zhao and Rui Yan. A Character-Centric Neural Model for Automated Story Generation. In **AAAI'20**. Full paper. [[pdf]] (**CCF A**)
+[4] Danyang Liu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Meng-Hsuan Yu, Ziming Huang, Gongshen Liu, Dongyan Zhao and Rui Yan. A Character-Centric Neural Model for Automated Story Generation. In **AAAI'20**. Full paper. [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuD.%206731.pdf) (**CCF A**)
 
-[5] Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. **IPM,2020**. Journal. (**CCF B**)
+[5] Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. **IPM,2020**. Journal. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457319305710) (**CCF B**) 
 
 
 
 2019
 
-[1] Zhangming Chan<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Xiaopeng Yang, Xiuying Chen, Wenpeng Hu, Dongyan Zhao and Rui Yan. Modeling Personalization in Countinuous Space for Response Generation via Augmented Wasserstein Autoencoders. In **EMNLP'19**. Full paper. [[pdf]]() (**CCF B**)
+[1] Zhangming Chan<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Xiaopeng Yang, Xiuying Chen, Wenpeng Hu, Dongyan Zhao and Rui Yan. Modeling Personalization in Countinuous Space for Response Generation via Augmented Wasserstein Autoencoders. In **EMNLP'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D19-1201.pdf) (**CCF B**)
 
-[2] Zhangming Chan, Xiuying Chen, Yongliang Wang, **Juntao Li**, Zhiqiang Zhang, Kun Gai, Dongyan Zhao and Rui Yan. Stick to the Facts: Learning towards a Fidelity-oriented E-Commerce Product Description Generation. In **EMNLP'19**. Full paper. [[pdf]]() (**CCF B**)
+[2] Zhangming Chan, Xiuying Chen, Yongliang Wang, **Juntao Li**, Zhiqiang Zhang, Kun Gai, Dongyan Zhao and Rui Yan. Stick to the Facts: Learning towards a Fidelity-oriented E-Commerce Product Description Generation. In **EMNLP'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D19-1501.pdf) (**CCF B**)
 
-[3] Zhengwei Tao, Waiman Si, **Juntao Li**, Dongyan Zhao and Rui Yan. Boosting Variational Generative Model via Condition Enhancing and Lexical-Editing. In **PRICAI'19**. Full paper. [[pdf]]()
+[3] Zhengwei Tao, Waiman Si, **Juntao Li**, Dongyan Zhao and Rui Yan. Boosting Variational Generative Model via Condition Enhancing and Lexical-Editing. In **PRICAI'19**. Full paper. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-29908-8_30)
 
-[4] Dingmin Wang, Meng Fang, Yan Song, **Juntao Li**. Bridging the Gap: Improve Part-of-speech Tagging for Chinese Social Media Texts with Foreign Words. In **IJCAI'19**. Workshop. [[pdf]]() 
+[4] Dingmin Wang, Meng Fang, Yan Song, **Juntao Li**. Bridging the Gap: Improve Part-of-speech Tagging for Chinese Social Media Texts with Foreign Words. In **IJCAI'19**. Workshop. [[pdf]](https://www.aclweb.org/anthology/W19-5803.pdf) 
 
-[5] Lisong Qiu, **Juntao Li**, Wei Bi, Dongyan Zhao and Rui Yan. Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple References. In **ACL'19**. Full paper. [[pdf]]() (**CCF A**)
+[5] Lisong Qiu, **Juntao Li**, Wei Bi, Dongyan Zhao and Rui Yan. Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple References. In **ACL'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/P19-1372.pdf) (**CCF A**)
 
-[6] **Juntao Li**, Lisong Qiu, Bo Tang, Dongmin Chen, Dongyan Zhao and Rui Yan. Insufficient Data Can Also Rock! Learning to Converse Using Smaller Data with Augmentation. In **AAAI'19**. Full paper. [[pdf]]() (**CCF A**)
+[6] **Juntao Li**, Lisong Qiu, Bo Tang, Dongmin Chen, Dongyan Zhao and Rui Yan. Insufficient Data Can Also Rock! Learning to Converse Using Smaller Data with Augmentation. In **AAAI'19**. Full paper. [[pdf]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4641) (**CCF A**)
 
-[7] **Juntao Li**, Lidong Bing, Lisong Qiu, Dongmin Chen, Dongyan Zhao and Rui Yan. Learning to Write Creative Stories with Thematic Consistency. In **AAAI'19**. Full paper. [[pdf]]() (**CCF A**)
+[7] **Juntao Li**, Lidong Bing, Lisong Qiu, Dongmin Chen, Dongyan Zhao and Rui Yan. Learning to Write Creative Stories with Thematic Consistency. In **AAAI'19**. Full paper. [[pdf]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3993) (**CCF A**)
 
 
 2018
 
-[1] **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In EMNLP'18. Full paper. [[pdf]]() (**CCF B**)
+[1] **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In EMNLP'18. Full paper. [[pdf]](https://www.aclweb.org/anthology/D18-1423.pdf) (**CCF B**)
 
-[2] **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]] ()
+[2] **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]] (http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf)
 
 
 
