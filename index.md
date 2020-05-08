@@ -74,7 +74,9 @@ Undergraduate
 
 
 ### Academic Services (Program Committee or Reviewer)
-
+2020: ACL, AAAI, TKDE, CL, TALLIP, COLING, EMNLP, AACL, CCL
+2019(secondary reviewers):
+2018(secondary reviewers):
 
 ### Education
 
