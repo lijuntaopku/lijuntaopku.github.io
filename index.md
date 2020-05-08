@@ -17,11 +17,11 @@ Juntao Li<br>
 
 [1] **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]] (**CCF A**)
 
-[2] **Juntao Li**, Chang Liu, Jian Wang, Lidong Bing, Hongsong Li, Xiaozhong Liu, Dongyan Zhao and Rui Yan. Cross-Lingual Low-Resource Set-to-Description Retrieval for Global E-Commerce. In **AAAI'20**. Full paper. [[To Appear]] (**CCF A**)
+[2] **Juntao Li**, Chang Liu, Jian Wang, Lidong Bing, Hongsong Li, Xiaozhong Liu, Dongyan Zhao and Rui Yan. Cross-Lingual Low-Resource Set-to-Description Retrieval for Global E-Commerce. In **AAAI'20**. Full paper. [[pdf]] (**CCF A**)
 
-[3] Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Danyang Liu, Bo Tang, Haisong Zhang, Dongyan Zhao and Rui Yan. Draft and Edit: Automatic Storytelling Through Multi-Pass Hierarchical Conditional Variational Autoencoder. In **AAAI'20**. Full paper. [[To Appear]] (**CCF A**)
+[3] Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Danyang Liu, Bo Tang, Haisong Zhang, Dongyan Zhao and Rui Yan. Draft and Edit: Automatic Storytelling Through Multi-Pass Hierarchical Conditional Variational Autoencoder. In **AAAI'20**. Full paper. [[pdf]] (**CCF A**)
 
-[4] Danyang Liu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Meng-Hsuan Yu, Ziming Huang, Gongshen Liu, Dongyan Zhao and Rui Yan. A Character-Centric Neural Model for Automated Story Generation. In **AAAI'20**. Full paper. [[To Appear]] (**CCF A**)
+[4] Danyang Liu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Meng-Hsuan Yu, Ziming Huang, Gongshen Liu, Dongyan Zhao and Rui Yan. A Character-Centric Neural Model for Automated Story Generation. In **AAAI'20**. Full paper. [[pdf]] (**CCF A**)
 
 [5] Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. IPM (**CCF B**)
 
