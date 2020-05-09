@@ -88,6 +88,11 @@ Undergraduate
 ### Education
 
 ### Experiences
+Nationali University of Singapore <br>
+Alibaba Damo Academy<br>
+Tencent AI Lab<br>
+Georgia Institute of Technology
+
 
 ### Contact
 lijuntao@pku.edu.cn
