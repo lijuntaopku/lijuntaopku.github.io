@@ -2,7 +2,7 @@
 To appear
 
 ### Research Interests
-&emsp;Natural Language Generation<br>
+*    Natural Language Generation<br>
 &emsp;Dialogue System<br>
 &emsp;Cross-lingual & Cross-domain transfer
 
