@@ -88,10 +88,10 @@ Undergraduate
 ### Education
 
 ### Experiences
-* Nationali University of Singapore <br>
-* Alibaba Damo Academy<br>
-* Tencent AI Lab<br>
-* Georgia Institute of Technology
+* Nationali University of Singapore （2019/09-2020/02） <br>
+* Alibaba Damo Academy (2018/11-2019/06)<br>
+* Tencent AI Lab (2018/04-2018/06)<br>
+* Georgia Institute of Technology (2014/01-2014/05)
 
 
 ### Contact
