@@ -70,6 +70,7 @@ Undergraduate
 
 
 ### Selected Awards
+* Outstanding Graduates Awards, Peking University
 * AAAI Tutorial Grant<br>
 * National Scholarship, Peking University<br>
 * Pacemaker to Merit Student, Peking University<br>
