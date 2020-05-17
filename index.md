@@ -16,7 +16,7 @@ To appear
 
 2020
 
-* **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](IJCAI_PRICAI_2020.pdf) (**CCF A**)
+* **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](./IJCAI__PRICAI__2020.pdf) (**CCF A**)
 
 * **Juntao Li**, Chang Liu, Jian Wang, Lidong Bing, Hongsong Li, Xiaozhong Liu, Dongyan Zhao and Rui Yan. Cross-Lingual Low-Resource Set-to-Description Retrieval for Global E-Commerce. In **AAAI'20**. Full paper. [[pdf]]() (**CCF A**)
 
