@@ -1,6 +1,10 @@
 ### About Me
 Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/), working with [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before that, he obtained the doctoral degree from Academy for [Advanced Interdisciplinary Studies (AAIS)](https://www.ds.pku.edu.cn/) & [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/), Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/), [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/), and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). He is also proud to have collaborated with [Prof. Ng Hwee Tou](https://www.comp.nus.edu.sg/~nght/) from National University of Singapore, [Dr. Lidong Bing](https://lidongbing.github.io/) from Alibaba Damo Academy, and [Prof. Xiaozhong Liu](http://xiaozhong.website2.me/) from Indiana Univeristy, Bloomington.
 
+I am looking for highly self-motivated students to work with me and Prof. Min Zhang.
+
+### Contact
+lijuntao@pku.edu.cn
 
 ### Research Interests
 * Natural Language Generation
@@ -65,12 +69,6 @@ Undergraduate
 
 
 
-    
-
-
-
-
-
 ### Selected Awards
 * Outstanding Graduates Awards, Peking University
 * AAAI Tutorial Grant<br>
@@ -96,6 +94,5 @@ Undergraduate
 * Georgia Institute of Technology (2014/01-2014/05)
 
 
-### Contact
-lijuntao@pku.edu.cn
+
 
