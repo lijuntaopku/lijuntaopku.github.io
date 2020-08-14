@@ -81,14 +81,19 @@ Undergraduate
 
 ### Academic Services (Program Committee or Reviewer)
 #### Conferences
-* 2020: ACL, AAAI, TKDE, CL, TALLIP, COLING, EMNLP, AACL, CCL
+* 2021: AAAI
+
+* 2020: ACL, AAAI, COLING, EMNLP, AACL, CCL
 
 * 2019(secondary reviewers): ACL, KDD, EMNLP, CoNLL, AAAI
 
 * 2018(secondary reviewers): BigData, CIKM, COLING, KDD, IJCAI, NLPCC
 
 #### Journals
-International Journal of Intelligent Systems
+* Computational Linguistics (CL),
+* Transactions on Knowledge and Data Engineering (TKDE)<br>
+* ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)<br>
+* International Journal of Intelligent Systems<br>
 
 
 ### Experiences
