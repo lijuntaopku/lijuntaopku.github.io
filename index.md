@@ -88,7 +88,6 @@ Undergraduate
 
 * 2018(secondary reviewers): BigData, CIKM, COLING, KDD, IJCAI, NLPCC
 
-### Education
 
 ### Experiences
 * National University of Singapore （2019/09-2020/02） <br>
