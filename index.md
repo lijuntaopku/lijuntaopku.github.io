@@ -1,11 +1,11 @@
 ### About Me
-Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/), working with [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before that, he obtained the doctoral degree from Academy for [Advanced Interdisciplinary Studies (AAIS)](https://www.ds.pku.edu.cn/)
+Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/), working with [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before that, he obtained the doctoral degree from Academy for [Advanced Interdisciplinary Studies (AAIS)](https://www.ds.pku.edu.cn/) \& [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/), Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/), [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/), and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97).
 
 
 ### Research Interests
 * Natural Language Generation
 * Dialogue System
-* Cross-lingual & Cross-domain transfer
+* Cross-Lingual & Multi-Lingual
 
 ### Tutorials and Talks
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
