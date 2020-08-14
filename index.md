@@ -80,11 +80,15 @@ Undergraduate
 
 
 ### Academic Services (Program Committee or Reviewer)
+#### Conferences
 * 2020: ACL, AAAI, TKDE, CL, TALLIP, COLING, EMNLP, AACL, CCL
 
 * 2019(secondary reviewers): ACL, KDD, EMNLP, CoNLL, AAAI
 
 * 2018(secondary reviewers): BigData, CIKM, COLING, KDD, IJCAI, NLPCC
+
+#### Journals
+International Journal of Intelligent Systems
 
 
 ### Experiences
