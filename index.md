@@ -1,5 +1,6 @@
 ### About Me
-To appear
+Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/), working with [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before that, he obtained the doctoral degree from Academy for [Advanced Interdisciplinary Studies (AAIS)](https://www.ds.pku.edu.cn/)
+
 
 ### Research Interests
 * Natural Language Generation
@@ -15,6 +16,7 @@ To appear
 ### Publications
 
 2020
+* Lin Wang, **Juntao Li**, Dongyan Zhao, Rui Yan. Plan-CVAE: A Planning-based Conditional Variational Autoencoder for Story Generation.
 
 * **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](./IJCAI__PRICAI__2020.pdf) (**CCF A**)
 
