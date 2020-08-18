@@ -5,6 +5,7 @@ I am looking for highly self-motivated students to work with me and Prof. Min Zh
 
 ### Contact
 lijuntao@pku.edu.cn
+ljt@suda.edu.cn
 
 ### Research Interests
 * Natural Language Generation
