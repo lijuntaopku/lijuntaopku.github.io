@@ -4,7 +4,7 @@ Dr. Juntao Li is now an associate professor at [Institute of Artificial Intellig
 I am looking for highly self-motivated students to work with me and Prof. Min Zhang.
 
 ### Contact
-lijuntao@pku.edu.cn
+lijuntao@pku.edu.cn<br>
 ljt@suda.edu.cn
 
 ### Research Interests
