@@ -60,12 +60,12 @@ ljt@suda.edu.cn
 
 * **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In **EMNLP'18**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D18-1423.pdf) (**CCF B**)
 
-* **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]](CCF C)(http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf)
+* **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]](http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf)
 
 
 
 Others
-* **Juntao Li**, Yu Huang. Logical Tree and Complex Event Processing in Power Systems. In SEKE'17.
+* **Juntao Li**, Yu Huang. Logical Tree and Complex Event Processing in Power Systems. In **SEKE'17**.
 
 * Zhiwei Ma, **Juntao Li**, Chunyu Liu, Chenglin Sun and Mi Zhou, High-Pressure Spectroscopic Investigation on Proton Transfer in Squaric Acid and 4,4’-Bipyridine, Co-crystal, **Scientific Report**. [[pdf]](https://www.nature.com/articles/s41598-017-04980-3.pdf)
 
