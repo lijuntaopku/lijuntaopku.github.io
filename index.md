@@ -21,6 +21,10 @@ ljt@suda.edu.cn
 ### Publications
 
 2020
+* **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. Submitted to TOIS, under revision.
+
+* Hai Ye, Qingyu Tan, Ruidan He, **Juntao Li**, Hwee Tou Ng and Lidong Bing. Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training. In **EMNLP'20**. TBD (**CCF B**) 
+
 * Lin Wang, **Juntao Li**, Dongyan Zhao, Rui Yan. Plan-CVAE: A Planning-based Conditional Variational Autoencoder for Story Generation. In CCL'2020. 
 
 * **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](./IJCAI__PRICAI__2020.pdf) (**CCF A**)
@@ -67,6 +71,8 @@ Undergraduate
 * **Juntao Li**, Zihe Zhao, Ren Pin, Chenglin Sun, Mi Zhou. Covalent Symmetrization of the Hexagonal Networks of Trimesic Acids at High Pressure, International Journal for Light and Electron Optics, **Optik**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S003040261630184X)
 
 * Yuanzheng Chen, Zhiwei Men, **Juntao Li**, Zhanlong Li, Shengnan Sun, Chenglin Sun, Shuqin Gao, Zuowei Li, Mi Zhou. Anharmonic Coupling between Fundamental Modes in Tetramethylurea, Journal of Chemical Physics, **JCP**. [[pdf]](https://dr.ntu.edu.sg/bitstream/10356/98746/1/Anharmonic%20coupling%20between%20fundamental%20modes%20in%20tetramethylurea.pdf)
+
+
 
 
 
