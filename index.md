@@ -1,7 +1,7 @@
 ### About Me
 Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/), working with [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before that, he obtained the doctoral degree from Academy for [Advanced Interdisciplinary Studies (AAIS)](https://www.ds.pku.edu.cn/) & [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/), Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/), [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/), and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). He is also proud to have collaborated with [Prof. Ng Hwee Tou](https://www.comp.nus.edu.sg/~nght/) from National University of Singapore, [Dr. Lidong Bing](https://lidongbing.github.io/) from Alibaba Damo Academy, and [Prof. Xiaozhong Liu](http://xiaozhong.website2.me/) from Indiana Univeristy, Bloomington.
 
-I am looking for highly self-motivated students to work with me and Prof. Min Zhang（**1-2 Phd/master positions OPEN for 2021 Fall**).
+I am looking for highly self-motivated students to work with me and Prof. Min Zhang（**1-2 master positions OPEN for 2021 Fall**).
 
 
 ### Contact
@@ -75,8 +75,15 @@ Others
 * Yuanzheng Chen, Zhiwei Men, **Juntao Li**, Zhanlong Li, Shengnan Sun, Chenglin Sun, Shuqin Gao, Zuowei Li, Mi Zhou. Anharmonic Coupling between Fundamental Modes in Tetramethylurea, Journal of Chemical Physics, **JCP**. [[pdf]](https://dr.ntu.edu.sg/bitstream/10356/98746/1/Anharmonic%20coupling%20between%20fundamental%20modes%20in%20tetramethylurea.pdf)
 
 
-
-
+### Students
+* Xiaobo Liang (PhD student, co-supervised with Prof. Min Zhang)
+* Jianxin Zhang (PhD student, co-supervised with Prof. Min Zhang)
+* Yue Wang (PhD student, co-supervised with Prof. Min Zhang)
+* Yisheng Xiao (Master student, co-supervised with Prof. Min Zhang)
+* Jing Ye (Master student, co-supervised with Prof. Min Zhang)
+* Ruiyang Jin (Undergraduate student, Soochow University)
+* Yongquan Wang (Undergraduate student, Soochow University)
+* Zhaochen Su (Undergraduate student, Soochow University)
 
 ### Selected Awards
 * Outstanding Graduates Awards, Peking University
@@ -110,6 +117,8 @@ Others
 * Alibaba Damo Academy (2018/11-2019/06)<br>
 * Tencent AI Lab (2018/04-2018/06)<br>
 * Georgia Institute of Technology (2014/01-2014/05)
+
+
 
 
 
