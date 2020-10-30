@@ -97,7 +97,7 @@ Others
 
 ### Academic Services (Program Committee or Reviewer)
 #### Conferences
-* 2021: AAAI, IJCAI (Senior PC), NAACL-HLT
+* 2021: AAAI, IJCAI (Senior PC), NAACL-HLT, EACL
 
 * 2020: ACL, AAAI, COLING, EMNLP, AACL, CCL
 
