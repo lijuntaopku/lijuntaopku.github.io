@@ -3,7 +3,7 @@ Dr. Juntao Li is now an associate professor at [Institute of Artificial Intellig
 
 I am looking for highly self-motivated students to work with me and Prof. [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ)（**1-2 master positions OPEN for 2021 Fall**).
 
-Applicants **must** meet the **requirement** of CET6 > 500 or TOFEL>90 or IELTS > 6.5.
+Applicants **must** meet the **requirement** of CET6 >= 500 or TOFEL >= 90 or IELTS >= 6.5.
 
 
 ### Contact
