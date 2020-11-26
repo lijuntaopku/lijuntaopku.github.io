@@ -88,11 +88,11 @@ Others
 * Zhaochen Su (Undergraduate student, Soochow University)
 
 ### Selected Awards
-* Outstanding Graduates Awards, Peking University
+* Outstanding Graduates Awards（优秀毕业生）, Peking University
 * AAAI Tutorial Grant<br>
-* National Scholarship, Peking University<br>
-* Pacemaker to Merit Student, Peking University<br>
-* The Hailiang Scholarship, Peking University<br>
+* National Scholarship（国家奖学金）, Peking University<br>
+* Pacemaker to Merit Student（三好学生标兵）, Peking University<br>
+* The Hailiang Scholarship（海亮奖学金）, Peking University<br>
 * The Outstanding Scientific Research Award, Peking University<br>
 * The Weng Hongwu Research Grant, Peking University<br>
 
