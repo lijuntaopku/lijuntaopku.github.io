@@ -24,6 +24,8 @@ ljt@suda.edu.cn
 ### Publications
 
 2020
+* Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Zhangming Chan, Dongyan Zhao and Rui Yan. Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. In **AAAI'20**. Full paper. (**CCF A**)
+
 * **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. Submitted to TOIS (**CCF A**), under revision.
 
 * Hai Ye, Qingyu Tan, Ruidan He, **Juntao Li**, Hwee Tou Ng and Lidong Bing. Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training. In **EMNLP'20**. Full paper. [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.599.pdf)(**CCF B**) 
