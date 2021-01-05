@@ -23,7 +23,7 @@ ljt@suda.edu.cn
 
 ### Publications
 
-2020
+**2020**
 * Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Zhangming Chan, Dongyan Zhao and Rui Yan. Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. In **AAAI'21**. Full paper. (**CCF A**)
 
 * **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. TOIS (**CCF A**), acceptance with minor revision.
@@ -44,7 +44,7 @@ ljt@suda.edu.cn
 
 
 
-2019
+**2019**
 
 * Zhangming Chan<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Xiaopeng Yang, Xiuying Chen, Wenpeng Hu, Dongyan Zhao and Rui Yan. Modeling Personalization in Countinuous Space for Response Generation via Augmented Wasserstein Autoencoders. In **EMNLP'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D19-1201.pdf) (**CCF B**)
 
@@ -61,7 +61,7 @@ ljt@suda.edu.cn
 * **Juntao Li**, Lidong Bing, Lisong Qiu, Dongmin Chen, Dongyan Zhao and Rui Yan. Learning to Write Creative Stories with Thematic Consistency. In **AAAI'19**. Full paper. [[pdf]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3993) (**CCF A**)
 
 
-2018
+**2018**
 
 * **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In **EMNLP'18**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D18-1423.pdf) (**CCF B**)
 
@@ -69,7 +69,7 @@ ljt@suda.edu.cn
 
 
 
-Others
+**Others**
 * **Juntao Li**, Yu Huang. Logical Tree and Complex Event Processing in Power Systems. In **SEKE'17**.
 
 * Zhiwei Ma, **Juntao Li**, Chunyu Liu, Chenglin Sun and Mi Zhou, High-Pressure Spectroscopic Investigation on Proton Transfer in Squaric Acid and 4,4’-Bipyridine, Co-crystal, **Scientific Report**. [[pdf]](https://www.nature.com/articles/s41598-017-04980-3.pdf)
