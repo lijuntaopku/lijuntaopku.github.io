@@ -23,7 +23,7 @@ ljt@suda.edu.cn
 
 ### Publications
 **2021**
-* Chongyang Tao, Shen Gao, **Juntao Li**, Yansong Feng, Dongyan Zhao, Rui Yan. Learning to Organize a Bag of Words into Sentences with Neural Networks: An Empirical Study. In **NAACL'21**.
+* Chongyang Tao, Shen Gao, **Juntao Li**, Yansong Feng, Dongyan Zhao, Rui Yan. Learning to Organize a Bag of Words into Sentences with Neural Networks: An Empirical Study. In **NAACL'21**. Full Paper.
 
 
 
