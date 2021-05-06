@@ -29,7 +29,10 @@ ljt@suda.edu.cn
 * History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future.
 
 ### Journals
-* **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
+* **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
+
+* Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. **IPM,2020**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457319305710) (**CCF B**) 
+
 
 
 ### Conferences
@@ -38,13 +41,10 @@ ljt@suda.edu.cn
 
 * Chongyang Tao, Shen Gao, **Juntao Li**, Yansong Feng, Dongyan Zhao, Rui Yan. Learning to Organize a Bag of Words into Sentences with Neural Networks: An Empirical Study. In **NAACL'21**. Full Paper.
 
-
-
-**2020**
 * Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Zhangming Chan, Dongyan Zhao and Rui Yan. Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. In **AAAI'21**. Full paper. (**CCF A**)
 
 
-
+**2020**
 * Hai Ye, Qingyu Tan, Ruidan He, **Juntao Li**, Hwee Tou Ng and Lidong Bing. Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training. In **EMNLP'20**. Full paper. [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.599.pdf) [[code]](https://github.com/oceanypt/CFd)   (**CCF B**) 
 
 * Lin Wang, **Juntao Li**, Dongyan Zhao, Rui Yan. Plan-CVAE: A Planning-based Conditional Variational Autoencoder for Story Generation. In **CCL'2020**. 
@@ -56,8 +56,6 @@ ljt@suda.edu.cn
 * Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Danyang Liu, Bo Tang, Haisong Zhang, Dongyan Zhao and Rui Yan. Draft and Edit: Automatic Storytelling Through Multi-Pass Hierarchical Conditional Variational Autoencoder. In **AAAI'20**. Full paper. [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-YuM.8133.pdf) (**CCF A**)
 
 * Danyang Liu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Meng-Hsuan Yu, Ziming Huang, Gongshen Liu, Dongyan Zhao and Rui Yan. A Character-Centric Neural Model for Automated Story Generation. In **AAAI'20**. Full paper. [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuD.%206731.pdf) (**CCF A**)
-
-* Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. **IPM,2020**. Journal. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457319305710) (**CCF B**) 
 
 
 
