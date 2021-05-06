@@ -20,9 +20,22 @@ ljt@suda.edu.cn
 
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
 
+### Books and Surveys
+* Deep Learning for Dialogue System: Chit-Chat and Beyond
 
-### Publications
+### Manuscripts
+* Cross-Lingual Set-to-Sequence Modeling for E-Commerce: Retrieval, Generation, and Ensemble
+
+* 
+
+### Journals
+* **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
+
+
+### Conferences
 **2021**
+* Zhangming Chan, Lemao Liu, **Juntao Li**, Haisong Zhang, Dongyan Zhao, Shuming Shi and Rui Yan. Enhancing the Open-Domain Dialogue Evaluation in Latent Space. In **ACL'21, Findings**.
+
 * Chongyang Tao, Shen Gao, **Juntao Li**, Yansong Feng, Dongyan Zhao, Rui Yan. Learning to Organize a Bag of Words into Sentences with Neural Networks: An Empirical Study. In **NAACL'21**. Full Paper.
 
 
@@ -30,7 +43,7 @@ ljt@suda.edu.cn
 **2020**
 * Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Zhangming Chan, Dongyan Zhao and Rui Yan. Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. In **AAAI'21**. Full paper. (**CCF A**)
 
-* **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
+
 
 * Hai Ye, Qingyu Tan, Ruidan He, **Juntao Li**, Hwee Tou Ng and Lidong Bing. Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training. In **EMNLP'20**. Full paper. [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.599.pdf) [[code]](https://github.com/oceanypt/CFd)   (**CCF B**) 
 
