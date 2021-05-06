@@ -21,12 +21,12 @@ ljt@suda.edu.cn
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
 
 ### Books and Surveys
-* Deep Learning for Dialogue System: Chit-Chat and Beyond
+* Deep Learning for Dialogue System: Chit-Chat and Beyond.
 
 ### Manuscripts
-* Cross-Lingual Set-to-Sequence Modeling for E-Commerce: Retrieval, Generation, and Ensemble
+* Cross-Lingual Set-to-Sequence Modeling for E-Commerce: Retrieval, Generation, and Ensemble.
 
-* 
+* History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future.
 
 ### Journals
 * **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
