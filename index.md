@@ -12,8 +12,7 @@ ljt@suda.edu.cn
 
 ### Research Interests
 * Natural Language Generation
-* Dialogue System
-* Cross-Lingual & Multi-Lingual
+* Machine Learning 
 
 ### Tutorials and Talks
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
@@ -100,6 +99,10 @@ ljt@suda.edu.cn
 * Yue Wang (PhD student, co-supervised with Prof. Min Zhang)
 * Yisheng Xiao (Master student, co-supervised with Prof. Min Zhang)
 * Jing Ye (Master student, co-supervised with Prof. Min Zhang)
+* Kaiqi Feng (Master student, co-supervised with Prof. Min Zhang)
+
+### Interns
+* Yixin Ji (Undergraduate student, Soochow University)
 * Ruiyang Jin (Undergraduate student, Soochow University)
 * Yongquan Wang (Undergraduate student, Soochow University)
 * Zhaochen Su (Undergraduate student, Soochow University)
