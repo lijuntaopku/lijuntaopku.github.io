@@ -97,7 +97,7 @@ ljt@suda.edu.cn
 * Xiaobo Liang (PhD student, co-supervised with Prof. Min Zhang)
 * Jianxin Zhang (PhD student, co-supervised with Prof. Min Zhang)
 * Yue Wang (PhD student, co-supervised with Prof. Min Zhang)
-* Jing Qian(Visiting student, Xi'an Jiaotong-Liverpool University）
+* Jing Qian (Visiting student, Xi'an Jiaotong-Liverpool University）
 * Yisheng Xiao (Master student, co-supervised with Prof. Min Zhang)
 * Jing Ye (Master student, co-supervised with Prof. Min Zhang)
 * Kaiqi Feng (Master student, co-supervised with Prof. Min Zhang)
