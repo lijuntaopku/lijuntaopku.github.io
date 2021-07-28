@@ -1,9 +1,9 @@
 ### About Me
 Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/), working with [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before that, he obtained the doctoral degree from Academy for [Advanced Interdisciplinary Studies (AAIS)](https://www.ds.pku.edu.cn/) & [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/), Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/), [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/), and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). He is also proud to have collaborated with [Prof. Ng Hwee Tou](https://www.comp.nus.edu.sg/~nght/) from the National University of Singapore, [Dr. Lidong Bing](https://lidongbing.github.io/) from Alibaba Damo Academy, and [Prof. Xiaozhong Liu](http://xiaozhong.website2.me/) from Indiana Univeristy, Bloomington.
 
-I am looking for strong and highly self-motivated students to work with me and Prof. [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ)（**1 Phd and 5 master positions OPEN for 2022 Fall**).
-
-Applicants **must** meet the **requirement** of CET6 >= 500 or TOFEL >= 90 or IELTS >= 6.5.
+<!-- I am looking for strong and highly self-motivated students to work with me and Prof. [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ)（**1 Phd and 5 master positions OPEN for 2022 Fall**). -->
+<!-- 
+Applicants **must** meet the **requirement** of CET6 >= 500 or TOFEL >= 90 or IELTS >= 6.5. -->
 
 
 ### Contact
@@ -13,6 +13,7 @@ ljt@suda.edu.cn
 ### Research Interests
 * Natural Language Generation
 * Machine Learning 
+* Pretrained Language Models
 
 ### Tutorials and Talks
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
@@ -23,9 +24,9 @@ ljt@suda.edu.cn
 * Deep Learning for Dialogue System: Chit-Chat and Beyond.
 
 ### Manuscripts
-* Cross-Lingual Set-to-Sequence Modeling for E-Commerce: Retrieval, Generation, and Ensemble.
+* R-Drop: Regularized Dropout for Neural Networks.[[pdf]](https://arxiv.org/abs/2106.14448)[[code]](https://github.com/dropreg/R-Drop)   
 
-* History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future.
+* History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future. Submitted to TOIS.
 
 ### Journals
 * **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
@@ -94,18 +95,18 @@ ljt@suda.edu.cn
 
 
 ### Students
-* Xiaobo Liang (PhD student, co-supervised with Prof. Min Zhang)
-* Jianxin Zhang (PhD student, co-supervised with Prof. Min Zhang)
-* Yue Wang (PhD student, co-supervised with Prof. Min Zhang)
-* Jing Qian (Visiting student, Xi'an Jiaotong-Liverpool University）
-* Yisheng Xiao (Master student, co-supervised with Prof. Min Zhang)
-* Jing Ye (Master student, co-supervised with Prof. Min Zhang)
-* Kaiqi Feng (Master student, co-supervised with Prof. Min Zhang)
+* Xiaobo Liang (PhD student, 2020-2023, co-supervised with Prof. Min Zhang)
+* Jianxin Zhang (PhD student,2020-, co-supervised with Prof. Min Zhang)
+* Yue Wang (PhD student,2021-2026, co-supervised with Prof. Min Zhang)
+* Yixin Ji (PhD student,2022-2027, co-supervised with Prof. Min Zhang)
+* Zecheng Tang (PhD student,2022-2027, co-supervised with Prof. Min Zhang)
+* Yisheng Xiao (Master student, 2020-2023, co-supervised with Prof. Min Zhang)
+* Jing Ye (Master student, 2020-2023, co-supervised with Prof. Min Zhang)
+* Kaiqi Feng (Master student, 2020-2023, co-supervised with Prof. Min Zhang)
 
 ### Interns
-* Yixin Ji (Undergraduate student, Soochow University)
+* Jing Qian (Visiting student, Xi'an Jiaotong-Liverpool University）
 * Ruiyang Jin (Undergraduate student, Soochow University)
-* Yongquan Wang (Undergraduate student, Soochow University)
 * Zhaochen Su (Undergraduate student, Soochow University)
 
 ### Selected Awards
