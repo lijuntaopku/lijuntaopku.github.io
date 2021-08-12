@@ -125,6 +125,10 @@ ljt@suda.edu.cn
 
 ### Academic Services (Program Committee or Reviewer)
 #### Conferences
+* ACL Rolling Reviewer
+
+* 2022: AAAI, IJCAI
+
 * 2021: AAAI, IJCAI (Senior PC), NAACL-HLT, EACL, ACL (Area Chair), ICONIP (Tutorial, Session Chair)
 
 * 2020: ACL, AAAI, COLING, EMNLP, AACL, CCL
