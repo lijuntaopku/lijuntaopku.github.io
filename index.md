@@ -43,6 +43,8 @@ ljt@suda.edu.cn
 
 * Chongyang Tao, Shen Gao, **Juntao Li**, Yansong Feng, Dongyan Zhao, Rui Yan. Learning to Organize a Bag of Words into Sentences with Neural Networks: An Empirical Study. In **NAACL'21**. Full Paper.
 
+* Mingfei Guo, Xiuying Chen, **Juntao Li**, Dongyan Zhao, Rui Yan. How does Truth Evolve into Fake News? An Empirical Study of Fake News Evolution. In **WWW'21 Companion**.
+
 * Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Zhangming Chan, Dongyan Zhao and Rui Yan. Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. In **AAAI'21**. Full paper. (**CCF A**)
 
 
