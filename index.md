@@ -105,9 +105,16 @@ ljt@suda.edu.cn
 * Yue Wang (PhD student,2021-2026, co-supervised with Prof. Min Zhang)
 * Yixin Ji (PhD student,2022-2027, co-supervised with Prof. Min Zhang)
 * Zecheng Tang (PhD student,2022-2027, co-supervised with Prof. Min Zhang)
-* Yisheng Xiao (Master student, 2020-2023, co-supervised with Prof. Min Zhang)
-* Jing Ye (Master student, 2020-2023, co-supervised with Prof. Min Zhang)
-* Kaiqi Feng (Master student, 2020-2023, co-supervised with Prof. Min Zhang)
+* Yisheng Xiao (Master student, 2021-2024, co-supervised with Prof. Min Zhang)
+* Jing Ye (Master student, 2021-2024, co-supervised with Prof. Min Zhang)
+* Kaiqi Feng (Master student, 2021-2024, co-supervised with Prof. Min Zhang)
+* Dan Qiao (Master student, 2022-2025, co-supervised with Prof. Min Zhang)
+* Zhaochen Su (Master student, 2022-2025)
+* Zechen Sun (Master student, 2022-2025)
+* Pei Guo (Master student, 2022-2025)
+* Haoke Zhang (Master student, 2022-2025)
+
+
 
 ### Interns
 * Jing Qian (Visiting student, Xi'an Jiaotong-Liverpool University）
