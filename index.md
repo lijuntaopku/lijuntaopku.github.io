@@ -115,11 +115,10 @@ ljt@suda.edu.cn
 * Haoke Zhang (Master student, 2022-2025)
 
 
-
 ### Interns
 * Jing Qian (Visiting student, Xi'an Jiaotong-Liverpool University）
-* Ruiyang Jin (Undergraduate student, Soochow University)
-* Zhaochen Su (Undergraduate student, Soochow University)
+* Tianci Wu (Undergraduate student, Soochow University)
+
 
 ### Selected Awards
 * Outstanding Graduates Awards（优秀毕业生）, Peking University
