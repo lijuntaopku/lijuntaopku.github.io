@@ -39,6 +39,8 @@ ljt@suda.edu.cn
 
 ### Conferences
 **2021**
+* Xiaobo Liang<sup>*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Yue Wang, Qi Meng, Wei Chen, Tao Qin, Min Zhang, Tie-yan Liu.  R-Drop: Regularized Dropout for Neural Networks.In **NeurIPS'20**. Full paper. [[pdf]](https://arxiv.org/abs/2106.14448)[[code]](https://github.com/dropreg/R-Drop)   
+
 * Zhangming Chan, Lemao Liu, **Juntao Li**, Haisong Zhang, Dongyan Zhao, Shuming Shi and Rui Yan. Enhancing the Open-Domain Dialogue Evaluation in Latent Space. In **ACL'21, Findings**.
 
 * Chongyang Tao, Shen Gao, **Juntao Li**, Yansong Feng, Dongyan Zhao, Rui Yan. Learning to Organize a Bag of Words into Sentences with Neural Networks: An Empirical Study. In **NAACL'21**. Full Paper.
