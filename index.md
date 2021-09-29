@@ -27,7 +27,7 @@ ljt@suda.edu.cn
 
 * History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future. Submitted to TOIS.
 
-* A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. 
+* A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. Submitted to TASLP.
 
 ### Journals
 * **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
