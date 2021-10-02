@@ -25,7 +25,7 @@ ljt@suda.edu.cn
 
 ### Manuscripts
 
-* History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future. Submitted to TOIS.
+* History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future. Submitted to TKDE.
 
 * A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. Submitted to TASLP.
 
