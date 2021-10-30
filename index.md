@@ -116,6 +116,9 @@ ljt@suda.edu.cn
 * Jing Qian (Visiting student, Xi'an Jiaotong-Liverpool University）
 * Tianci Wu (Undergraduate student, Soochow University)
 
+### Alumni
+* Chenchen Dai (Undergraduate student of Soochow University > Ant Group(蚂蚁金服))
+
 
 ### Selected Awards
 * Outstanding Graduates Awards（优秀毕业生）, Peking University
