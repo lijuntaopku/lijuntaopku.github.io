@@ -132,7 +132,7 @@ ljt@suda.edu.cn
 
 ### Academic Services (Program Committee or Reviewer)
 #### Conferences
-* ACL Rolling Reviewer
+* ACL Rolling Reviewer (Area Chair)
 
 * 2022: AAAI, IJCAI
 
@@ -145,7 +145,8 @@ ljt@suda.edu.cn
 * 2018(secondary reviewers): BigData, CIKM, COLING, KDD, IJCAI, NLPCC
 
 #### Journals
-* Computational Linguistics (CL),
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS),
+* Computational Linguistics (CL)<br>
 * Transactions on Knowledge and Data Engineering (TKDE)<br>
 * ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)<br>
 * International Journal of Intelligent Systems<br>
