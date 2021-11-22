@@ -132,7 +132,7 @@ ljt@suda.edu.cn
 
 ### Academic Services (Program Committee or Reviewer)
 #### Conferences
-* ACL Rolling Reviewer (Area Chair)
+* ACL Rolling Reviewer (Area Chair/Action Editor)
 
 * 2022: AAAI, IJCAI
 
