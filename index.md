@@ -87,8 +87,6 @@ ljt@suda.edu.cn
 
 
 **Others**
-* **Juntao Li**, Yu Huang. Logical Tree and Complex Event Processing in Power Systems. In **SEKE'17**.
-
 * Zhiwei Ma, **Juntao Li**, Chunyu Liu, Chenglin Sun and Mi Zhou, High-Pressure Spectroscopic Investigation on Proton Transfer in Squaric Acid and 4,4’-Bipyridine, Co-crystal, **Scientific Report**. [[pdf]](https://www.nature.com/articles/s41598-017-04980-3.pdf)
 
 * **Juntao Li**, Zihe Zhao, Ren Pin, Chenglin Sun, Mi Zhou. Covalent Symmetrization of the Hexagonal Networks of Trimesic Acids at High Pressure, International Journal for Light and Electron Optics, **Optik**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S003040261630184X)
