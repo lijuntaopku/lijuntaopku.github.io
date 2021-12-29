@@ -18,7 +18,7 @@ ljt@suda.edu.cn
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
 
 ### Books and Surveys
-* Rui Yan, **Juntao Li** (Corresponding Author), Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. Major Revision. (**SCI Q1, Top Journal**)
+* Rui Yan, **Juntao Li** (Corresponding Author), Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. FnTIR, Major Revision. (**SCI Q1, Top Journal**)
 
 ### Manuscripts
 
@@ -31,7 +31,7 @@ ljt@suda.edu.cn
 
 * Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. **IPM,2020**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457319305710) (**CCF B**) 
 
-* A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. Major Revision (**CCF B**).
+* A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. TASLP, Major Revision (**CCF B**).
 
 
 ### Conferences
