@@ -24,6 +24,8 @@ ljt@suda.edu.cn
 
 * History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future. Submitted to TKDE.
 
+* CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to TOIS.
+
 
 
 ### Journals
@@ -134,7 +136,7 @@ ljt@suda.edu.cn
 #### Conferences
 * ACL Rolling Reviewer (Area Chair/Action Editor)
 
-* 2022: AAAI, IJCAI
+* 2022: AAAI, IJCAI, NAACL
 
 * 2021: AAAI, IJCAI (Senior PC), NAACL-HLT, EACL, ACL (Area Chair), ICONIP (Tutorial, Session Chair)
 
