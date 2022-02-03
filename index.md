@@ -31,7 +31,7 @@ ljt@suda.edu.cn
 
 * Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. **IPM,2020**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457319305710) (**CCF B**) 
 
-* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. TASLP, Major Revision (**CCF B**).
+* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. TASLP, Accepted (**CCF B**).
 
 * Min Zhang<sup>\*</sup>, **Juntao Li<sup>*</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
 
