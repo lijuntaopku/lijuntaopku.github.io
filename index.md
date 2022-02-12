@@ -12,6 +12,10 @@ ljt@suda.edu.cn
 * Machine Learning 
 * Pretrained Language Models
 
+### Grants
+* Alibaba Innovation Research Grant, Co-PI
+* Wudao Open Fund (BAAI), PI
+
 ### Tutorials and Talks
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
 
@@ -115,8 +119,11 @@ ljt@suda.edu.cn
 
 
 ### Interns
-* Jing Qian (Visiting student, Xi'an Jiaotong-Liverpool University）
 * Tianci Wu (Undergraduate student, Soochow University)
+* Yuyang Ding (Undergraduate student, Soochow University)
+* Yunzhu Zhang (Undergraduate student, Soochow University)
+* Linge Du (Undergraduate student, Soochow University)
+* Xinyan Guan (Undergraduate student, Soochow University)
 
 ### Alumni
 * Chenchen Dai (Undergraduate student of Soochow University > Ant Group(蚂蚁金服))
