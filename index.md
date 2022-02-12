@@ -9,7 +9,7 @@ ljt@suda.edu.cn
 
 ### Research Interests
 * Natural Language Generation
-* Machine Learning 
+* Dialogue Systems
 * Pretrained Language Models
 
 ### Grants
@@ -124,6 +124,8 @@ ljt@suda.edu.cn
 * Yunzhu Zhang (Undergraduate student, Soochow University)
 * Linge Du (Undergraduate student, Soochow University)
 * Xinyan Guan (Undergraduate student, Soochow University)
+* Peng Xia (Undergraduate student, Soochow University)
+
 
 ### Alumni
 * Chenchen Dai (Undergraduate student of Soochow University > Ant Group(蚂蚁金服))
