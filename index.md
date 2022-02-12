@@ -31,15 +31,15 @@ ljt@suda.edu.cn
 * CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to TOIS.
 
 
-
 ### Journals
+* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. TASLP, Accepted (**CCF B**).
+
+* Min Zhang<sup>\*</sup>, **Juntao Li<sup>*</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
+
 * **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
 
 * Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. **IPM,2020**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457319305710) (**CCF B**) 
 
-* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. TASLP, Accepted (**CCF B**).
-
-* Min Zhang<sup>\*</sup>, **Juntao Li<sup>*</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
 
 ### Conferences
 **2021**
