@@ -90,11 +90,13 @@ ljt@suda.edu.cn
 * Yunzhu Zhang (Undergraduate student, Soochow University)
 * Linge Du (Undergraduate student, Soochow University)
 * Xinyan Guan (Undergraduate student, Soochow University)
+* Ming Dai (Undergraduate student, Soochow University)
 * Peng Xia (Undergraduate student, Soochow University)
+* Zhengtao Zou (Undergraduate student, Soochow University)
 
 
 ### Alumni
-* Chenchen Dai (Undergraduate student of Soochow University > Ant Group(蚂蚁金服))
+* Chenchen Dai (Undergraduate student of Soochow University > Algorithm Engineer, Ant Group(蚂蚁金服，算法工程师))
 
 
 ### Selected Awards
