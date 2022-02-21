@@ -21,7 +21,9 @@ ljt@suda.edu.cn
 
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
 
-### Books and Surveys
+
+### Selected Publications
+#### Books and Surveys
 * Rui Yan, **Juntao Li** (Corresponding Author), Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. FnTIR, Major Revision. (**SCI Q1, Top Journal**)
 
 ### Manuscripts
@@ -32,32 +34,17 @@ ljt@suda.edu.cn
 
 
 ### Journals
-* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. TASLP, Accepted (**CCF B**).
+* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, Accepted (**CCF B**).
 
 * Min Zhang<sup>\*</sup>, **Juntao Li<sup>*</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
 
 * **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
 
-* Lianhai Miao, Da Cao, **Juntao Li**, Weili Guan. Multi-modal Product Title Compression. **IPM,2020**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0306457319305710) (**CCF B**) 
-
 
 ### Conferences
-**2021**
 * Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Yue Wang, Qi Meng, Wei Chen, Tao Qin, Min Zhang, Tie-yan Liu.  R-Drop: Regularized Dropout for Neural Networks.In **NeurIPS'21**. Full paper. (**CCF A**) [[pdf]](https://arxiv.org/abs/2106.14448)[[code]](https://github.com/dropreg/R-Drop)   
 
-* Zhangming Chan, Lemao Liu, **Juntao Li**, Haisong Zhang, Dongyan Zhao, Shuming Shi and Rui Yan. Enhancing the Open-Domain Dialogue Evaluation in Latent Space. In **ACL'21, Findings**.
-
-* Chongyang Tao, Shen Gao, **Juntao Li**, Yansong Feng, Dongyan Zhao, Rui Yan. Learning to Organize a Bag of Words into Sentences with Neural Networks: An Empirical Study. In **NAACL'21**. Full Paper.
-
-* Mingfei Guo, Xiuying Chen, **Juntao Li**, Dongyan Zhao, Rui Yan. How does Truth Evolve into Fake News? An Empirical Study of Fake News Evolution. In **WWW'21 Companion**.
-
 * Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Zhangming Chan, Dongyan Zhao and Rui Yan. Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. In **AAAI'21**. Full paper. (**CCF A**)
-
-
-**2020**
-* Hai Ye, Qingyu Tan, Ruidan He, **Juntao Li**, Hwee Tou Ng and Lidong Bing. Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training. In **EMNLP'20**. Full paper. [[pdf]](https://www.aclweb.org/anthology/2020.emnlp-main.599.pdf) [[code]](https://github.com/oceanypt/CFd)   (**CCF B**) 
-
-* Lin Wang, **Juntao Li**, Dongyan Zhao, Rui Yan. Plan-CVAE: A Planning-based Conditional Variational Autoencoder for Story Generation. In **CCL'2020**. 
 
 * **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](./IJCAI__PRICAI__2020.pdf) [[code]](https://github.com/lijuntaopku/UFD)(**CCF A**)
 
@@ -67,17 +54,7 @@ ljt@suda.edu.cn
 
 * Danyang Liu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Meng-Hsuan Yu, Ziming Huang, Gongshen Liu, Dongyan Zhao and Rui Yan. A Character-Centric Neural Model for Automated Story Generation. In **AAAI'20**. Full paper. [[pdf]](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuD.%206731.pdf) (**CCF A**)
 
-
-
-**2019**
-
 * Zhangming Chan<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Xiaopeng Yang, Xiuying Chen, Wenpeng Hu, Dongyan Zhao and Rui Yan. Modeling Personalization in Countinuous Space for Response Generation via Augmented Wasserstein Autoencoders. In **EMNLP'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D19-1201.pdf) (**CCF B**)
-
-* Zhangming Chan, Xiuying Chen, Yongliang Wang, **Juntao Li**, Zhiqiang Zhang, Kun Gai, Dongyan Zhao and Rui Yan. Stick to the Facts: Learning towards a Fidelity-oriented E-Commerce Product Description Generation. In **EMNLP'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D19-1501.pdf) (**CCF B**)
-
-* Zhengwei Tao, Waiman Si, **Juntao Li**, Dongyan Zhao and Rui Yan. Boosting Variational Generative Model via Condition Enhancing and Lexical-Editing. In **PRICAI'19**. Full paper. [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-29908-8_30)
-
-* Dingmin Wang, Meng Fang, Yan Song, **Juntao Li**. Bridging the Gap: Improve Part-of-speech Tagging for Chinese Social Media Texts with Foreign Words. In **IJCAI'19**. Workshop. [[pdf]](https://www.aclweb.org/anthology/W19-5803.pdf) 
 
 * Lisong Qiu, **Juntao Li**, Wei Bi, Dongyan Zhao and Rui Yan. Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple References. In **ACL'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/P19-1372.pdf) (**CCF A**)
 
@@ -86,20 +63,14 @@ ljt@suda.edu.cn
 * **Juntao Li**, Lidong Bing, Lisong Qiu, Dongmin Chen, Dongyan Zhao and Rui Yan. Learning to Write Creative Stories with Thematic Consistency. In **AAAI'19**. Full paper. [[pdf]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3993) (**CCF A**)
 
 
-**2018**
-
 * **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In **EMNLP'18**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D18-1423.pdf) (**CCF B**)
 
 * **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]](http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf), [[data and guidelines]](http://tcci.ccf.org.cn/conference/2018/taskdata.php)
 
-
-
-**Others**
 * Zhiwei Ma, **Juntao Li**, Chunyu Liu, Chenglin Sun and Mi Zhou, High-Pressure Spectroscopic Investigation on Proton Transfer in Squaric Acid and 4,4’-Bipyridine, Co-crystal, **Scientific Report**. [[pdf]](https://www.nature.com/articles/s41598-017-04980-3.pdf)
 
 * **Juntao Li**, Zihe Zhao, Ren Pin, Chenglin Sun, Mi Zhou. Covalent Symmetrization of the Hexagonal Networks of Trimesic Acids at High Pressure, International Journal for Light and Electron Optics, **Optik**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S003040261630184X)
 
-* Yuanzheng Chen, Zhiwei Men, **Juntao Li**, Zhanlong Li, Shengnan Sun, Chenglin Sun, Shuqin Gao, Zuowei Li, Mi Zhou. Anharmonic Coupling between Fundamental Modes in Tetramethylurea, Journal of Chemical Physics, **JCP**. [[pdf]](https://dr.ntu.edu.sg/bitstream/10356/98746/1/Anharmonic%20coupling%20between%20fundamental%20modes%20in%20tetramethylurea.pdf)
 
 
 ### Students
