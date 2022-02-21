@@ -31,18 +31,18 @@ ljt@suda.edu.cn
 ### Selected Publications 
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author/supervisor )
 #### Books and Surveys
-* Rui Yan, **Juntao Li** (Corresponding Author), Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. FnTIR, Major Revision. (**SCI Q1, Top Journal**)
+* Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. FnTIR, Major Revision. (**SCI Q1, Top Journal**)
 
 #### Journals
-* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, Accepted (**CCF B**).
+* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>***, Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, Accepted (**CCF B**).
 
-* Min Zhang<sup>\*</sup>, **Juntao Li<sup>*</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
+* Min Zhang<sup>\#</sup>, **Juntao Li<sup>#</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
 
 * **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
 
 
 #### Conferences
-* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Yue Wang, Qi Meng, Wei Chen, Tao Qin, Min Zhang, Tie-yan Liu.  R-Drop: Regularized Dropout for Neural Networks.In **NeurIPS'21**. Full paper. (**CCF A**) [[pdf]](https://arxiv.org/abs/2106.14448)[[code]](https://github.com/dropreg/R-Drop)   
+* Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>***, Yue Wang, Qi Meng, Wei Chen, Tao Qin, Min Zhang, Tie-yan Liu.  R-Drop: Regularized Dropout for Neural Networks.In **NeurIPS'21**. Full paper. (**CCF A**) [[pdf]](https://arxiv.org/abs/2106.14448)[[code]](https://github.com/dropreg/R-Drop)   
 
 * Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Zhangming Chan, Dongyan Zhao and Rui Yan. Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. In **AAAI'21**. Full paper. (**CCF A**)
 
