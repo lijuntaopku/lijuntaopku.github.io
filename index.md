@@ -29,7 +29,7 @@ ljt@suda.edu.cn
 
 
 ### Selected Publications 
-(<sup>*</sup> = equal contribution, <sup>#</sup> = corresponding author/supervisor )
+(<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author/supervisor )
 #### Books and Surveys
 * Rui Yan, **Juntao Li** (Corresponding Author), Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. FnTIR, Major Revision. (**SCI Q1, Top Journal**)
 
