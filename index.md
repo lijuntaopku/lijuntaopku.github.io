@@ -21,17 +21,16 @@ ljt@suda.edu.cn
 
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
 
-
-### Selected Publications
-#### Books and Surveys
-* Rui Yan, **Juntao Li** (Corresponding Author), Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. FnTIR, Major Revision. (**SCI Q1, Top Journal**)
-
-#### Manuscripts
+### Manuscripts
 
 * History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future. Submitted to TKDE.
 
 * CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to TOIS.
 
+
+### Selected Publications
+#### Books and Surveys
+* Rui Yan, **Juntao Li** (Corresponding Author), Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. FnTIR, Major Revision. (**SCI Q1, Top Journal**)
 
 #### Journals
 * Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li** (Corresponding Author), Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, Accepted (**CCF B**).
