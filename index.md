@@ -28,7 +28,7 @@ ljt@suda.edu.cn
 * CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to TOIS.
 
 
-### Selected Publications
+### Selected Publications (<sup>*</sup>=equal contribution, <sup>*</sup>=corresponding author/supervisor )
 #### Books and Surveys
 * Rui Yan, **Juntao Li** (Corresponding Author), Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. FnTIR, Major Revision. (**SCI Q1, Top Journal**)
 
