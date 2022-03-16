@@ -25,7 +25,7 @@ ljt@suda.edu.cn
 
 * History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future. Submitted to TKDE.
 
-* CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to TOIS.
+* CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to TOIS. [[pdf]](https://arxiv.org/pdf/2112.06668.pdf)[[code]](https://github.com/ct4rec/CT4Rec)
 
 
 ### Selected Publications 
