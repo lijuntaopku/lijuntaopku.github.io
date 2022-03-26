@@ -22,8 +22,7 @@ ljt@suda.edu.cn
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
 
 ### Manuscripts
-
-* History is NOT Enough: Improving Multi-Turn Response Selection via Conversation Future. Submitted to TKDE.
+* Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)
 
 * CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to TOIS. [[pdf]](https://arxiv.org/pdf/2112.06668.pdf)[[code]](https://github.com/ct4rec/CT4Rec)
 
