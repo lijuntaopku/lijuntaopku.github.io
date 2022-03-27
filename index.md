@@ -16,6 +16,12 @@ ljt@suda.edu.cn
 * Alibaba Innovation Research Grant, Co-PI
 * Wudao Open Fund (BAAI), PI
 
+### Experiences
+* National University of Singapore （2019/09-2020/02） <br>
+* Alibaba Damo Academy (2018/11-2019/06)<br>
+* Tencent AI Lab (2018/04-2018/06)<br>
+* Georgia Institute of Technology (2014/01-2014/05)
+
 ### Tutorials and Talks
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
 
@@ -131,11 +137,6 @@ ljt@suda.edu.cn
 * International Journal of Intelligent Systems<br>
 
 
-### Experiences
-* National University of Singapore （2019/09-2020/02） <br>
-* Alibaba Damo Academy (2018/11-2019/06)<br>
-* Tencent AI Lab (2018/04-2018/06)<br>
-* Georgia Institute of Technology (2014/01-2014/05)
 
 
 
