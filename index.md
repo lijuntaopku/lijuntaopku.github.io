@@ -103,6 +103,7 @@ ljt@suda.edu.cn
 
 ### Alumni
 * Chenchen Dai (Undergraduate student of Soochow University > Algorithm Engineer, Ant Group(蚂蚁金服，算法工程师))
+* Yi Deng (Undergraduate student of Soochow University > University College London (UCL), Master)
 
 
 ### Selected Awards
