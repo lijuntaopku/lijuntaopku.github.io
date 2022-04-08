@@ -27,6 +27,8 @@ ljt@suda.edu.cn
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
 
 ### Manuscripts
+* LPT: Language-agnostic Prompt Tuning\\ of Pretrained Cross-Lingual language Model}{LPT: Language-agnostic Prompt Tuning.[[pdf]]()[[code]](https://github.com/Dereck0602/LPT)
+
 * Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)
 
 * CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to TOIS. [[pdf]](https://arxiv.org/pdf/2112.06668.pdf)[[code]](https://github.com/ct4rec/CT4Rec)
@@ -39,9 +41,7 @@ ljt@suda.edu.cn
 
 #### Journals
 * Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, [[pdf]](./TASLP_camera_ready.pdf) [[code]](https://github.com/dropreg/RLD) (**CCF B**).
-
 * Min Zhang<sup>\#</sup>, **Juntao Li<sup>#</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
-
 * **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
 
 
