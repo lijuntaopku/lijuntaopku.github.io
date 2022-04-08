@@ -124,7 +124,7 @@ ljt@suda.edu.cn
 #### Conferences
 * ACL Rolling (Area Chair/Action Editor)
 
-* 2022: AAAI, IJCAI, NAACL
+* 2022: AAAI, IJCAI, NAACL, KDD
 
 * 2021: AAAI, IJCAI (Senior PC), NAACL-HLT, EACL, ACL (Area Chair), ICONIP (Tutorial, Session Chair)
 
