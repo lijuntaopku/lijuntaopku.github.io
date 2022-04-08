@@ -27,7 +27,7 @@ ljt@suda.edu.cn
 ### Manuscripts
 * LPT: Language-agnostic Prompt Tuning of Pretrained Cross-Lingual language Model. Submitted to SCIS. [[pdf]]()[[code]](https://github.com/Dereck0602/LPT)
 * Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. Submitted to Artificial Intelligence. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)
-* CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to TOIS. [[pdf]](https://arxiv.org/pdf/2112.06668.pdf)[[code]](https://github.com/ct4rec/CT4Rec)
+* CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to ACM TOIS. [[pdf]](https://arxiv.org/pdf/2112.06668.pdf)[[code]](https://github.com/ct4rec/CT4Rec)
 
 ### Selected Publications 
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author/supervisor )
