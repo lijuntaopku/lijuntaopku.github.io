@@ -54,7 +54,7 @@ ljt@suda.edu.cn
 * [12] **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]](http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf), [[data and guidelines]](http://tcci.ccf.org.cn/conference/2018/taskdata.php)
 
 ### Students
-* Xiaobo Liang (PhD student, 2020-2023, co-supervised with Prof. Min Zhang)
+* Xiaobo Liang (PhD student, 2020-2024, co-supervised with Prof. Min Zhang)
 * Jianxin Zhang (PhD student,2020-, co-supervised with Prof. Min Zhang)
 * Yue Wang (PhD student,2021-2026, co-supervised with Prof. Min Zhang)
 * Yixin Ji (PhD student,2022-2027, co-supervised with Prof. Min Zhang)
@@ -63,10 +63,10 @@ ljt@suda.edu.cn
 * Jing Ye (Master student, 2021-2024, co-supervised with Prof. Min Zhang)
 * Kaiqi Feng (Master student, 2021-2024, co-supervised with Prof. Min Zhang)
 * Dan Qiao (Master student, 2022-2025, co-supervised with Prof. Min Zhang)
+* Pei Guo (Master student, 2022-2025, co-supervised with Prof. Min Zhang)
+* Haoke Zhang (Master student, 2022-2025, co-supervised with Prof. Min Zhang)
 * Zhaochen Su (Master student, 2022-2025)
 * Zechen Sun (Master student, 2022-2025)
-* Pei Guo (Master student, 2022-2025)
-* Haoke Zhang (Master student, 2022-2025)
 * Yunjiang Xu (Master student, 2022-2025)
 * Haowen Dou (Master student, 2022-2025)
 * Zilong Zheng (Master student, 2022-2025)
