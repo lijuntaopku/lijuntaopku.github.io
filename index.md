@@ -72,6 +72,7 @@ ljt@suda.edu.cn
 * Zilong Zheng (Master student, 2022-2025)
 * Qinyi Liu (Master student, 2022-2025)
 * Chuyue Zhou (Master student, 2022-2025)
+* Weijie Liu (Master student, 2022-2025)
 
 ### Interns
 * Tianci Wu (Undergraduate student, Soochow University)
