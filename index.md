@@ -32,10 +32,10 @@ ljt@suda.edu.cn
 ### Selected Publications 
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author/supervisor )
 #### Books and Surveys
-* [1] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. [[pdf]](./FnTIR_CR_Chit-Chat.pdf)(**SCI Q1, IF=8.0, 127 Pages**)
+* [1] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./FnTIR_CR_Chit-Chat.pdf)(**SCI Q1, IF=8.0, 127 Pages**)
 
 #### Journals
-* [2] Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, [[pdf]](./TASLP_camera_ready.pdf) [[code]](https://github.com/dropreg/RLD) (**CCF B**).
+* [2] Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, 2022, [[pdf]](./TASLP_camera_ready.pdf) [[code]](https://github.com/dropreg/RLD) (**CCF B**).
 * [3] Min Zhang<sup>\#</sup>, **Juntao Li<sup>#</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
 * [4] **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
 
