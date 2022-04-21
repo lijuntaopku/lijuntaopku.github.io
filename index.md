@@ -27,13 +27,13 @@ ljt@suda.edu.cn
 ### Manuscripts
 * [1] LPT: Language-agnostic Prompt Tuning of Pretrained Cross-Lingual language Model. Submitted to SCIS. [[pdf]](./SCIS_22_LPT.pdf) [[code]](https://github.com/Dereck0602/LPT)
 * [2] Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. Submitted to Artificial Intelligence. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)
-* [3] CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to ACM TOIS. [[pdf]](https://arxiv.org/pdf/2112.06668.pdf)  [[code]](https://github.com/ct4rec/CT4Rec)
+* [3] CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to ACM TOIS. [[pdf]](https://arxiv.org/pdf/2112.06668.pdf) [[code]](https://github.com/ct4rec/CT4Rec)
 * [4] A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond.[[pdf]](https://arxiv.org/pdf/2204.09269.pdf)
 
 ### Selected Publications 
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author/supervisor )
 #### Books and Surveys
-* [1] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./1-Journal_V.pdf)(**SCI Q1, IF=8.0, 127 Pages**)
+* [1] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./1-Journal_V.pdf) (**SCI Q1, IF=8.0, 127 Pages**)
 
 #### Journals
 * [2] Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, 2022, [[pdf]](./TASLP_camera_ready.pdf) [[code]](https://github.com/dropreg/RLD) (**CCF B**).
