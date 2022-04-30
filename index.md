@@ -34,6 +34,7 @@ ljt@suda.edu.cn
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author/supervisor )
 #### Books and Surveys
 * [1] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./1-Journal_V.pdf) (**SCI Q1, IF=8.0, 127 Pages**)
+* [2] Min Cao, Shiping Li, **Juntao Li<sup>#</sup>**, Liqiang Nie, Min Zhang. Image-text Retrieval: A Survey on Recent Research and Development. **IJCAI'22, Survey Track**, [[pdf]](https://arxiv.org/pdf/2203.14713.pdf)
 
 #### Journals
 * [2] Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, 2022, [[pdf]](./TASLP_camera_ready.pdf) [[code]](https://github.com/dropreg/RLD) (**CCF B**).
