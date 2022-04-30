@@ -56,7 +56,7 @@ ljt@suda.edu.cn
 * [12] **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]](http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf), [[data and guidelines]](http://tcci.ccf.org.cn/conference/2018/taskdata.php)
 
 ### Students
-* Xiaobo Liang (PhD student, 2020-2024)
+* Xiaobo Liang (PhD student, 2020-2024, 1 NeurIPS, 1TASLP)
 * Jianxin Zhang (PhD student,2020-)
 * Yue Wang (PhD student,2021-2026)
 * Yixin Ji (PhD student,2022-2027)
