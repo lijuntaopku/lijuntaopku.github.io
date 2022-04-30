@@ -65,6 +65,7 @@ ljt@suda.edu.cn
 * Jing Ye (Master student, 2021-2024)
 * Kaiqi Feng (Master student, 2021-2024)
 * Dan Qiao (Master student, 2022-2025)
+* Jiulong Wu (Master student, 2022-2025)
 * Pei Guo (Master student, 2022-2025)
 * Haoke Zhang (Master student, 2022-2025)
 * Zhaochen Su (Master student, 2022-2025)
