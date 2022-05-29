@@ -23,6 +23,7 @@ ljt@suda.edu.cn
 ### Tutorials and Talks
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
+* YSSNLP2022, Deep Learning for Dialogue System: Chit-Chat and Beyond, [[video]](https://event.baai.ac.cn/event/408)[[Slide]](./yssnlp22.pdf)
 
 ### Manuscripts
 * [1] LPT: Language-agnostic Prompt Tuning of Pretrained Cross-Lingual language Model. Submitted to SCIS. [[pdf]](./SCIS_22_LPT.pdf) [[code]](https://github.com/Dereck0602/LPT)
