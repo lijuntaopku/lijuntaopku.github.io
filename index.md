@@ -70,7 +70,7 @@ ljt@suda.edu.cn
 * Yisheng Xiao (Master student, 2021-2024)
 * Jing Ye (Master student, 2021-2024)
 * Kaiqi Feng (Master student, 2021-2024)
-* Dan Qiao (Master student, 2022-2025)
+* Dan Qiao (Master student, 2022-2025, 1 COLING Oral)
 * Jiulong Wu (Master student, 2022-2025)
 * Pei Guo (Master student, 2022-2025)
 * Haoke Zhang (Master student, 2022-2025)
