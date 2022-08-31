@@ -28,9 +28,9 @@ ljt@suda.edu.cn
 * YSSNLP2022, Deep Learning for Dialogue System: Chit-Chat and Beyond, [[video]](https://event.baai.ac.cn/event/408)[[Slide]](./yssnlp22.pdf)
 
 ### Manuscripts
-* [1] LPT: Language-agnostic Prompt Tuning of Pretrained Cross-Lingual language Model. Submitted to SCIS. [[pdf]](./SCIS_22_LPT.pdf) [[code]](https://github.com/Dereck0602/LPT)
+* [1] LPT: Language-agnostic Prompt Tuning of Pretrained Cross-Lingual language Model. [[pdf]](./SCIS_22_LPT.pdf) [[code]](https://github.com/Dereck0602/LPT)
 * [2] Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. Submitted to Artificial Intelligence. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)
-* [3] CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. Submitted to ACM TOIS. [[pdf]](https://arxiv.org/pdf/2112.06668.pdf) [[code]](https://github.com/ct4rec/CT4Rec)
+* [3] CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. [[pdf]](https://arxiv.org/pdf/2112.06668.pdf) [[code]](https://github.com/ct4rec/CT4Rec)
 * [4] A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond. Submitted to TPAMI. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf)
 
 ### Selected Publications 
