@@ -1,6 +1,8 @@
 ### About Me
 Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/), working with [Prof. Min Zhang](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ). Before that, he obtained the bachlar degree from Jilin University, [Tangaoqing Honored Class](https://baike.baidu.com/item/%E5%94%90%E6%95%96%E5%BA%86%E7%8F%AD/10047825) (“[珠峰计划](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92/3486963)”，唐敖庆数理班) in 2015 and doctoral degree from [Academy for Advanced Interdisciplinary Studies (AAIS)](https://www.ds.pku.edu.cn/) & [Wangxuan Institute of Computer Technology (WICT)](https://www.wict.pku.edu.cn/), Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/), [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/), and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). He is also proud to have collaborated with [Prof. Ng Hwee Tou](https://www.comp.nus.edu.sg/~nght/) from the National University of Singapore, and [Dr. Lidong Bing](https://lidongbing.github.io/) from Alibaba Damo Academy.
 
+1 Phd and 3 Master positions are open for 2023 Fall!
+
 ### Contact
 ljtsudanlp@gmail.com<br>
 ljt@suda.edu.cn
@@ -71,8 +73,6 @@ ljt@suda.edu.cn
 * Haoke Zhang (Master student, 2022-2025)
 * Zhaochen Su (Master student, 2022-2025)
 * Zechen Sun (Master student, 2022-2025)
-* Yunjiang Xu (Master student, 2022-2025)
-* Haowen Dou (Master student, 2022-2025)
 * Zilong Zheng (Master student, 2022-2025)
 * Qinyi Liu (Master student, 2022-2025)
 * Chuyue Zhou (Master student, 2022-2025)
