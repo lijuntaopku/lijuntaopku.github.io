@@ -45,7 +45,7 @@ ljt@suda.edu.cn
 * [3] **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
 
 #### Conferences
-* [1] Dan Qiao, Chenchen Dai, Yuyang Ding, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. SelfMix: Robust Learning Against Textual Label Noise with Self-Mixup Training. In **COLING'22**. (**Oral**) [[pdf]]()[[code]]()  
+* [1] Dan Qiao, Chenchen Dai, Yuyang Ding, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. SelfMix: Robust Learning Against Textual Label Noise with Self-Mixup Training. In **COLING'22**. (**Oral**) [[pdf]]()[[code]](https://github.com/noise-learning/SelfMix)  
 * [2] Ziming Huang, Zhuoxuan Jiang, Ke Wang, **Juntao Li**, Shanshan Feng and Xian-Ling Mao. Gated Mechanism Enhanced Multi-Task Learning for Dialog Routing. In **COLING'22**. (**Oral**) [[pdf]]()[[code]]()  
 * [3] Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Yue Wang, Qi Meng, Wei Chen, Tao Qin, Min Zhang, Tie-yan Liu.  R-Drop: Regularized Dropout for Neural Networks.In **NeurIPS'21**. Full paper. (**CCF A**) [[pdf]](https://arxiv.org/abs/2106.14448)[[code]](https://github.com/dropreg/R-Drop)   
 * [4] Meng-Hsuan Yu<sup>\*</sup>, **Juntao Li<sup>*</sup>**, Zhangming Chan, Dongyan Zhao and Rui Yan. Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. In **AAAI'21**. Full paper. (**CCF A**)
