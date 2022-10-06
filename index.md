@@ -101,9 +101,7 @@ ljt@suda.edu.cn
 * AAAI Tutorial Grant<br>
 * National Scholarship（国家奖学金）, Peking University<br>
 * Pacemaker to Merit Student（三好学生标兵）, Peking University<br>
-* The Hailiang Scholarship（海亮奖学金）, Peking University<br>
-* The Outstanding Scientific Research Award, Peking University<br>
-* The Weng Hongwu Research Grant, Peking University<br>
+
 
 ### Academic Services (Program Committee or Reviewer)
 #### Conferences
@@ -111,15 +109,13 @@ ljt@suda.edu.cn
 * 2022: AAAI, IJCAI, NAACL, KDD, ICLR, EMNLP (Area Chair)
 * 2021: AAAI, IJCAI (Senior PC), NAACL-HLT, EACL, ACL (Area Chair), ICONIP (Tutorial, Session Chair)
 * 2020: ACL, AAAI, COLING, EMNLP, AACL, CCL
-* 2019(secondary reviewers): ACL, KDD, EMNLP, CoNLL, AAAI
-* 2018(secondary reviewers): BigData, CIKM, COLING, KDD, IJCAI, NLPCC
+
 
 #### Journals
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS),
 * Computational Linguistics (CL)<br>
 * Transactions on Knowledge and Data Engineering (TKDE)<br>
-* ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)<br>
-* International Journal of Intelligent Systems<br>
+
 
 
 
