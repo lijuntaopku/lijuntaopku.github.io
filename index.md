@@ -33,11 +33,11 @@ ljt@suda.edu.cn
 ### Selected Publications 
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author/supervisor )
 #### Books
-* [1] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./INR-083.pdf) (**SCI Q1, IF=8.0, 129 pages + 42 pages references**)
+* [**FnTIR**] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./INR-083.pdf) (**SCI Q1, IF=8.0, 129 pages + 42 pages references**)
 
 
 #### Journals
-* [2] Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations**<sup>#</sup>**. **Artificial Intelligence**. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)(**CCF A**)
+* [**AI J**] Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations**<sup>#</sup>**. **Artificial Intelligence**. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)(**CCF A**)
 * [3] A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond**<sup>#</sup>**. **TPAMI**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf)(**CCF A**)
 * [4] Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, 2022, [[pdf]](./TASLP_camera_ready.pdf) [[code]](https://github.com/dropreg/RLD) (**CCF B**).
 * [5] Min Zhang<sup>\#</sup>, **Juntao Li<sup>#</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
