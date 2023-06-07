@@ -1,6 +1,5 @@
 ### About Me
-Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/). Before that, he obtained the bachlar degree from Jilin University, [Tangaoqing Honored Class](https://baike.baidu.com/item/%E5%94%90%E6%95%96%E5%BA%86%E7%8F%AD/10047825) (“[珠峰计划](https://baike.baidu.com/item/%E5%9F%BA%E7%A1%80%E5%AD%A6%E7%A7%91%E6%8B%94%E5%B0%96%E5%AD%A6%E7%94%9F%E5%9F%B9%E5%85%BB%E8%AF%95%E9%AA%8C%E8%AE%A1%E5%88%92/3486963)”) in 2015 and doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/), [Prof. Dongyan Zhao](https://www.icst.pku.edu.cn/zhaodongyan/en/), and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). He is also proud to have collaborated with [Prof. Ng Hwee Tou](https://www.comp.nus.edu.sg/~nght/) from the National University of Singapore, and [Dr. Lidong Bing](https://lidongbing.github.io/) from Alibaba Damo Academy.
-
+Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/) and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). 
 
 ### Contact
 ljtsudanlp@gmail.com<br>
@@ -44,6 +43,7 @@ ljt@suda.edu.cn
 * [**TOIS**] **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
 
 #### Conferences
+* [**EMCL**] Future Augmentation with Self-Distillation in Recommendation**<sup>#</sup>**. **EMCL-PKDD 2023**[[pdf]]() [[code]]()(**CCF B**)
 * [**KDD**] Chong Liu, Xiaoyang Liu, Rongqin Zheng, Lixin Zhang, Xiaobo Liang, **Juntao Li<sup>#</sup>**, Lijun Wu, Min Zhang, Leyu Lin. CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation. **KDD 2023, ADS track**[[pdf]](https://arxiv.org/pdf/2112.06668.pdf) [[code]](https://github.com/ct4rec/CT4Rec)(**CCF A**)
 * [**ACL**] Xiaobo Liang, Zecheng Tang, **Juntao Li<sup>#</sup>**, Min Zhang. Open-ended Long Text Generation via Masked Language Modeling. **ACL 2023, CCF A**
 * [**ACL**] Xiaobo Liang, **Juntao Li<sup>#</sup>**, Lijun Wu, Ziqiang Cao and Min Zhang. Dynamic and Efficient Inference for Text Generation via BERT Family. **ACL 2023, CCF A**
