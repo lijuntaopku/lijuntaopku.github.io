@@ -1,5 +1,5 @@
 ### About Me
-![Alt text]("./Juntao_Li_Soochow.png")
+![Alt text]("https://github.com/lijuntaopku/lijuntaopku.github.io/blob/master/Juntao_Li_Soochow.png")
 Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/) and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). 
 
 ### Contact
