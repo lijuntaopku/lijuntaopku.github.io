@@ -9,7 +9,7 @@ ljt@suda.edu.cn
 ### 2. Research Interests and Selected Papers
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author )
 #### 2.1 Natural Language Generation
-* [**TPAMI**] Yisheng Xiao, Lijun Wu, Junliang Guo, **Juntao Li<sup>#</sup>**, Min Zhang, Tao Qin, Tie-yan Liu. A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond. **TPAMI**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf)(**CCF A**) [[pdf]]()[[code]]()
+* [**TPAMI**] Yisheng Xiao, Lijun Wu, Junliang Guo, **Juntao Li<sup>#</sup>**, Min Zhang, Tao Qin, Tie-yan Liu. A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond. **TPAMI**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf)(**CCF A**) 
 * [**ACL-23**] Xiaobo Liang, Zecheng Tang, **Juntao Li<sup>#</sup>**, Min Zhang. Open-ended Long Text Generation via Masked Language Modeling. **ACL 2023, CCF A** [[pdf]]()[[code]]()
 * [**ACL-23**] Xiaobo Liang, **Juntao Li<sup>#</sup>**, Lijun Wu, Ziqiang Cao and Min Zhang. Dynamic and Efficient Inference for Text Generation via BERT Family. **ACL 2023, CCF A** [[pdf]]()[[code]]()
 * [**ACL-23**] Yue Wang, Dan Qiao, **Juntao Li<sup>#</sup>**, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Guannan Zhang and Min Zhang. Towards Better Hierarchical Text Classification with Data Generation. **ACL 2023 Findings** [[pdf]]()[[code]]()
