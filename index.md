@@ -1,9 +1,5 @@
 ### About Me
 
-<div align="right">
-<img src=./Juntao_Li_Soochow.png width=60% />
-</div>
-
 Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/) and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). 
 
 ### Contact
@@ -29,13 +25,14 @@ ljt@suda.edu.cn
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
 * YSSNLP2022, Deep Learning for Dialogue System: Chit-Chat and Beyond, [[video]](https://event.baai.ac.cn/event/408)[[Slide]](./yssnlp22.pdf)
+* YSSNLP2023
 
 ### Manuscripts
 * LPT: Language-agnostic Prompt Tuning of Pretrained Cross-Lingual language Model. [[pdf]](./SCIS_22_LPT.pdf) [[code]](https://github.com/Dereck0602/LPT)
 
 
 ### Selected Publications 
-(<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author/supervisor )
+(<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author )
 #### Books
 * [**FnTIR**] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./INR-083.pdf) (**SCI Q1, IF=8.0, 129 pages + 42 pages references**)
 
@@ -83,6 +80,7 @@ Non-Autoregressive Transformer. In **AAAI'23**.
 * Yi Deng (Undergraduate student of Soochow University > University College London (UCL), Master)
 
 ### Selected Awards
+* 
 * Outstanding Graduates Awards（优秀毕业生）, Peking University
 * AAAI Tutorial Grant<br>
 * National Scholarship（国家奖学金）, Peking University<br>
@@ -90,17 +88,17 @@ Non-Autoregressive Transformer. In **AAAI'23**.
 
 
 ### Academic Services (Program Committee or Reviewer)
-#### Conferences
 * ACL Rolling (Area Chair/Action Editor)
+* 2023: ICLR, IJCAI (Senior PC), AACL (Website chair)
 * 2022: AAAI, IJCAI, NAACL, KDD, ICLR, EMNLP (Area Chair)
 * 2021: AAAI, IJCAI (Senior PC), NAACL-HLT, EACL, ACL (Area Chair), ICONIP (Tutorial, Session Chair)
 * 2020: ACL, AAAI, COLING, EMNLP, AACL, CCL
-
-
-#### Journals
+* IEEE 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS),
 * Computational Linguistics (CL)<br>
 * Transactions on Knowledge and Data Engineering (TKDE)<br>
+
+
 
 
 
