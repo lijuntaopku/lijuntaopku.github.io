@@ -13,7 +13,7 @@ ljt@suda.edu.cn
 * [**ACL-23**] Xiaobo Liang, Zecheng Tang, **Juntao Li<sup>#</sup>**, Min Zhang. Open-ended Long Text Generation via Masked Language Modeling. [[pdf]]()[[code]]() **ACL 2023, CCF A** 
 * [**ACL-23**] Xiaobo Liang, **Juntao Li<sup>#</sup>**, Lijun Wu, Ziqiang Cao and Min Zhang. Dynamic and Efficient Inference for Text Generation via BERT Family. [[pdf]]()[[code]]() **ACL 2023, CCF A** 
 * [**ACL-23**] Yue Wang, Dan Qiao, **Juntao Li<sup>#</sup>**, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Guannan Zhang and Min Zhang. Towards Better Hierarchical Text Classification with Data Generation. [[pdf]]()[[code]]() **ACL 2023 Findings** 
-* [**ACL-23**] Zecheng Tang, Pinzheng Wang, Keyan Zhou, **Juntao Li<sup>#</sup>** Ziqiang Cao and Min Zhang. Can Diffusion Model Achieve Better Performance in Text Generation ? Bridging the Gap between Training and Inference! [[pdf]]()[[code]]() **ACL 2023 Findings** 
+* [**ACL-23**] Zecheng Tang, Pinzheng Wang, Keyan Zhou, **Juntao Li<sup>#</sup>**, Ziqiang Cao and Min Zhang. Can Diffusion Model Achieve Better Performance in Text Generation ? Bridging the Gap between Training and Inference! [[pdf]]()[[code]]() **ACL 2023 Findings** 
 * [**AAAI-23**] Pei Guo<sup>\*</sup>, Yisheng Xiao<sup>\*</sup>, **Juntao Li<sup>#</sup>**, Lijun Wu, Min Zhang. RenewNAT: Renewing Potential Translation for
 Non-Autoregressive Transformer. [[pdf]]()[[code]]() In **AAAI'23, CCF A**. 
 * [**AAAI-23**] Yisheng Xiao, Lijun Wu, Ruiyang Xu, **Juntao Li<sup>#</sup>**, Tao Qin, Tie-yan Liu, Min Zhang. AMOM: Adaptive Masking over Masking for Conditional Masked Language Model. [[pdf]]()[[code]]() In **AAAI'23, CCF A**.
@@ -65,10 +65,10 @@ Non-Autoregressive Transformer. [[pdf]]()[[code]]() In **AAAI'23, CCF A**.
 
 ### 7. Selected Awards
 * Startrack Visiting Scholars (铸星计划), Microsoft Research Aisa
-* Outstanding Graduates Awards（优秀毕业生）, Peking University
+* Outstanding Graduates Awards (优秀毕业生), Peking University
 * AAAI Tutorial Grant<br>
-* National Scholarship（国家奖学金）, Peking University<br>
-* Pacemaker to Merit Student（三好学生标兵）, Peking University<br>
+* National Scholarship (国家奖学金), Peking University<br>
+* Pacemaker to Merit Student (三好学生标兵), Peking University<br>
 
 
 ### 8 Academic Services (Program Committee or Reviewer)
