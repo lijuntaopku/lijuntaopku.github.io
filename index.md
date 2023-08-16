@@ -45,6 +45,8 @@ Non-Autoregressive Transformer. [[pdf]]()[[code]]() In **AAAI'23** (**CCF A**)
 
 
 ### 3. Grants
+* National Science Foundation of China, No. 62206194, PI
+* Natural Science Foundation of Jiangsu Province, No. BK20220488, PI
 * Alibaba Innovation Research Grant, Co-PI
 * Wudao Open Fund (BAAI), PI
 
