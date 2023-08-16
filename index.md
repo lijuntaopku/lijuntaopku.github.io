@@ -9,7 +9,7 @@ ljt@suda.edu.cn
 ### Research Interests
 * Natural Language Generation
 * Dialogue Systems
-* Pretrained Language Models
+* Pretrained Language Models (OpenBT5: An open-sourced 14B bilingual Flan-T5 model pre-trained from scratch)
 
 ### Grants
 * Alibaba Innovation Research Grant, Co-PI
