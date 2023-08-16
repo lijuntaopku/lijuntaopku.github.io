@@ -80,7 +80,7 @@ Non-Autoregressive Transformer. In **AAAI'23**.
 * Yi Deng (Undergraduate student of Soochow University > University College London (UCL), Master)
 
 ### Selected Awards
-* 
+* Startrack Visiting Scholars (铸星计划), Microsoft Research Aisa
 * Outstanding Graduates Awards（优秀毕业生）, Peking University
 * AAAI Tutorial Grant<br>
 * National Scholarship（国家奖学金）, Peking University<br>
@@ -93,7 +93,7 @@ Non-Autoregressive Transformer. In **AAAI'23**.
 * 2022: AAAI, IJCAI, NAACL, KDD, ICLR, EMNLP (Area Chair)
 * 2021: AAAI, IJCAI (Senior PC), NAACL-HLT, EACL, ACL (Area Chair), ICONIP (Tutorial, Session Chair)
 * 2020: ACL, AAAI, COLING, EMNLP, AACL, CCL
-* IEEE 
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI/PAMI) 
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS),
 * Computational Linguistics (CL)<br>
 * Transactions on Knowledge and Data Engineering (TKDE)<br>
