@@ -37,7 +37,7 @@ Non-Autoregressive Transformer. [[pdf]]()[[code]]() In **AAAI'23** (**CCF A**)
 
 #### 2.3 Dialogue Systems
 * [**FnTIR**] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./INR-083.pdf) (**SCI Q1, IF=8.0, 129 pages + 42 pages references**)
-* [**ACL-23**] Chongyang Tao, Jiazhan Feng, Tao Shen, Chang Liu, **Juntao Li**, Xiubo Geng, Daxin Jiang. CORE: Cooperative Training of Retriever-Reranker for Effective Dialogue Response Selection. **ACL 2023, CCF A**
+* [**ACL-23**] Chongyang Tao, Jiazhan Feng, Tao Shen, Chang Liu, **Juntao Li**, Xiubo Geng, Daxin Jiang. CORE: Cooperative Training of Retriever-Reranker for Effective Dialogue Response Selection. **ACL 2023** (**CCF A**) 
 * [**TOIS-21**] **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
 * [**ACL-19**] Lisong Qiu, **Juntao Li**, Wei Bi, Dongyan Zhao and Rui Yan. Are Training Samples Correlated? Learning to Generate Dialogue Responses with Multiple References. In **ACL'19**. Full paper. [[pdf]](https://www.aclweb.org/anthology/P19-1372.pdf) (**CCF A**)
 * [**AAAI-19**] **Juntao Li**, Lisong Qiu, Bo Tang, Dongmin Chen, Dongyan Zhao and Rui Yan. Insufficient Data Can Also Rock! Learning to Converse Using Smaller Data with Augmentation. In **AAAI'19**. Full paper. [[pdf]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4641) (**CCF A**)
