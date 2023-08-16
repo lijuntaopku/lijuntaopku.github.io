@@ -1,6 +1,6 @@
 ### About Me
 
-Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/) and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). 
+Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](https://scholar.google.com.hk/citations?user=eLw6g-UAAAAJ&hl=zh-CN) and [Prof. Dongmin Chen]. 
 
 ### 1. Contact
 ljtsudanlp@gmail.com<br>
