@@ -10,13 +10,13 @@ ljt@suda.edu.cn
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author )
 #### 2.1 Natural Language Generation
 * [**TPAMI**] Yisheng Xiao, Lijun Wu, Junliang Guo, **Juntao Li<sup>#</sup>**, Min Zhang, Tao Qin, Tie-yan Liu. A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond. **TPAMI**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf)(**CCF A**) 
-* [**ACL-23**] Xiaobo Liang, Zecheng Tang, **Juntao Li<sup>#</sup>**, Min Zhang. Open-ended Long Text Generation via Masked Language Modeling. [[pdf]]()[[code]]() **ACL 2023, CCF A** 
-* [**ACL-23**] Xiaobo Liang, **Juntao Li<sup>#</sup>**, Lijun Wu, Ziqiang Cao and Min Zhang. Dynamic and Efficient Inference for Text Generation via BERT Family. [[pdf]]()[[code]]() **ACL 2023, CCF A** 
+* [**ACL-23**] Xiaobo Liang, Zecheng Tang, **Juntao Li<sup>#</sup>**, Min Zhang. Open-ended Long Text Generation via Masked Language Modeling. [[pdf]]()[[code]]() **ACL 2023** (**CCF A**) 
+* [**ACL-23**] Xiaobo Liang, **Juntao Li<sup>#</sup>**, Lijun Wu, Ziqiang Cao and Min Zhang. Dynamic and Efficient Inference for Text Generation via BERT Family. [[pdf]]()[[code]]() **ACL 2023** (**CCF A**) 
 * [**ACL-23**] Yue Wang, Dan Qiao, **Juntao Li<sup>#</sup>**, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Guannan Zhang and Min Zhang. Towards Better Hierarchical Text Classification with Data Generation. [[pdf]]()[[code]]() **ACL 2023 Findings** 
 * [**ACL-23**] Zecheng Tang, Pinzheng Wang, Keyan Zhou, **Juntao Li<sup>#</sup>**, Ziqiang Cao and Min Zhang. Can Diffusion Model Achieve Better Performance in Text Generation ? Bridging the Gap between Training and Inference! [[pdf]]()[[code]]() **ACL 2023 Findings** 
 * [**AAAI-23**] Pei Guo<sup>\*</sup>, Yisheng Xiao<sup>\*</sup>, **Juntao Li<sup>#</sup>**, Lijun Wu, Min Zhang. RenewNAT: Renewing Potential Translation for
-Non-Autoregressive Transformer. [[pdf]]()[[code]]() In **AAAI'23, CCF A**. 
-* [**AAAI-23**] Yisheng Xiao, Lijun Wu, Ruiyang Xu, **Juntao Li<sup>#</sup>**, Tao Qin, Tie-yan Liu, Min Zhang. AMOM: Adaptive Masking over Masking for Conditional Masked Language Model. [[pdf]]()[[code]]() In **AAAI'23, CCF A**.
+Non-Autoregressive Transformer. [[pdf]]()[[code]]() In **AAAI'23** (**CCF A**)  
+* [**AAAI-23**] Yisheng Xiao, Lijun Wu, Ruiyang Xu, **Juntao Li<sup>#</sup>**, Tao Qin, Tie-yan Liu, Min Zhang. AMOM: Adaptive Masking over Masking for Conditional Masked Language Model. [[pdf]]()[[code]]() In **AAAI'23** (**CCF A**) 
 * [**NeurIPS-21**] Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Yue Wang, Qi Meng, Wei Chen, Tao Qin, Min Zhang, Tie-yan Liu.  R-Drop: Regularized Dropout for Neural Networks.In **NeurIPS'21**. Full paper. [[pdf]](https://arxiv.org/abs/2106.14448)[[code]](https://github.com/dropreg/R-Drop) (**CCF A**)    
 * [**AAAI-21**] Meng-Hsuan Yu, **Juntao Li<sup>*</sup>**, Zhangming Chan, Dongyan Zhao and Rui Yan. Content Learning with Structure-Aware Writing: A Graph-Infused Dual Conditional Variational Autoencoder for Automatic Storytelling. In **AAAI'21**. Full paper. (**CCF A**)
 * [**AAAI-20**] **Juntao Li**, Chang Liu, Jian Wang, Lidong Bing, Hongsong Li, Xiaozhong Liu, Dongyan Zhao and Rui Yan. Cross-Lingual Low-Resource Set-to-Description Retrieval for Global E-Commerce. In **AAAI'20**. Full paper. [[pdf]](./AAAI20.pdf) (**CCF A**)
