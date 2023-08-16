@@ -2,13 +2,13 @@
 
 Dr. Juntao Li is now an associate professor at [Institute of Artificial Intelligence, Soochow University](http://iai.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](http://www.ruiyan.me/) and [Prof. Dongmin Chen](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=97). 
 
-### Contact
+### 1. Contact
 ljtsudanlp@gmail.com<br>
 ljt@suda.edu.cn
 
-### Research Interests and Selected Papers
+### 2. Research Interests and Selected Papers
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author )
-#### Natural Language Generation
+#### 2.1 Natural Language Generation
 * [**TPAMI**] A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond**<sup>#</sup>**. **TPAMI**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf)(**CCF A**)
 * [**TASLP**] Xiaobo Liang<sup>\*</sup>, Lijun Wu<sup>*</sup>, **Juntao Li<sup>#</sup>**, Tao Qin, Min Zhang and Tie-yan Liu. A Better Distillation Method with Single Teacher for Model for Neural Machine Translation. **TASLP**, 2022, [[pdf]](./TASLP_camera_ready.pdf) [[code]](https://github.com/dropreg/RLD) (**CCF B**).
 * [**FR**] Min Zhang<sup>\#</sup>, **Juntao Li<sup>#</sup>**. A commentary of GPT-3 in MIT Technology Review 2021. **Fundamental Research**.[[pdf]](https://www.sciencedirect.com/science/article/pii/S2667325821002193)
@@ -29,7 +29,7 @@ Non-Autoregressive Transformer. In **AAAI'23**.
 * [**EMNLP-18**] **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In **EMNLP'18**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D18-1423.pdf) (**CCF B**)
 
 
-#### Pretrained Language Models 
+#### 2.2 Pretrained Language Models 
 * (OpenBT5: An open-sourced 14B bilingual Flan-T5 model pre-trained from scratch)
 * [**AI J**] Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations**<sup>#</sup>**. **Artificial Intelligence**. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)(**CCF A**)
 * [**ACL-23**] Yixin Ji, Jikai Wang, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. Early Exit with Disentangled Representation and Equiangular Tight Frame. **ACL 2023 Findings**
@@ -38,7 +38,7 @@ Non-Autoregressive Transformer. In **AAAI'23**.
 * [**EMNLP-20**] Hai Ye, Qingyu Tan, Ruidan He, **Juntao Li**, Hwee Tou Ng, Lidong Bing.  Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training. In **EMNLP'20**. Full paper. (**CCF B**) [[pdf]]([https://arxiv.org/abs/2106.14448](https://aclanthology.org/2020.emnlp-main.599.pdf))[[code]]([https://github.com/dropreg/R-Drop](https://github.com/oceanypt/CFd))  
 * [**IJCAI-20**] **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](./IJCAI__PRICAI__2020.pdf) [[code]](https://github.com/lijuntaopku/UFD)(**CCF A**)
 
-#### Dialogue Systems
+#### 2.3 Dialogue Systems
 * [**FnTIR**] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./INR-083.pdf) (**SCI Q1, IF=8.0, 129 pages + 42 pages references**)
 * [**TOIS**] **Juntao Li**, Chang Liu<sup>*</sup>, Chongyang Tao, Zhangming Chan, DongyanZhao, Min Zhang, Rui Yan. Dialog History Matters! Personalized Response Selection in Multi-turn Retrieval-based Chatbots. **TOIS,2021** [[pdf]](https://arxiv.org/pdf/2103.09534.pdf) (**CCF A**)
 * [**ACL-23**] CORE: Cooperative Training of Retriever-Reranker for Effective Dialogue Response Selection. **ACL 2023, CCF A** 
@@ -47,26 +47,26 @@ Non-Autoregressive Transformer. In **AAAI'23**.
 * [**AAAI-19**] **Juntao Li**, Lisong Qiu, Bo Tang, Dongmin Chen, Dongyan Zhao and Rui Yan. Insufficient Data Can Also Rock! Learning to Converse Using Smaller Data with Augmentation. In **AAAI'19**. Full paper. [[pdf]](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4641) (**CCF A**)
 * [**NLPCC-Shared-Task-18**] **Juntao Li** and Rui Yan. Overview of the NLPCC 2018 Shared Task: Multi-Turn Human-Computer Conversations. In **NLPCC'18, Shared Task**. [[pdf]](http://tcci.ccf.org.cn/conference/2018/papers/EV52.pdf), [[data and guidelines]](http://tcci.ccf.org.cn/conference/2018/taskdata.php)
 
-### Grants
+### 3. Grants
 * Alibaba Innovation Research Grant, Co-PI
 * Wudao Open Fund (BAAI), PI
 
-### Experiences
+### 4. Experiences
 * National University of Singapore （2019/09-2020/02） <br>
 * Alibaba Damo Academy (2018/11-2019/06)<br>
 * Tencent AI Lab (2018/04-2018/06)<br>
 * Georgia Institute of Technology (2014/01-2014/05)
 
-### Tutorials and Talks
+### 5. Tutorials and Talks
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **AAAI'20**. Tutorial. [[Slide](https://lijuntaopku.github.io/AAAI2020-tutorial/AAAI20-tutorial.pdf)]. (**CCF A**)
 * **Juntao Li** and Rui Yan. Creative and Artistic Writing via Text Generation. In **IJCAI'19**. Tutorial. [[Slide](https://lijuntaopku.github.io/ijcai2019tutorial/ijcai-tutorial.pdf)]. (**CCF A**)
 * YSSNLP2022, Deep Learning for Dialogue System: Chit-Chat and Beyond, [[video]](https://event.baai.ac.cn/event/408)[[Slide]](./yssnlp22.pdf)
 
-### Alumni
+### 6. Alumni
 * Chenchen Dai (Undergraduate student of Soochow University > Algorithm Engineer, Ant Group(蚂蚁金服，算法工程师))
 * Yi Deng (Undergraduate student of Soochow University > University College London (UCL), Master)
 
-### Selected Awards
+### 7. Selected Awards
 * Startrack Visiting Scholars (铸星计划), Microsoft Research Aisa
 * Outstanding Graduates Awards（优秀毕业生）, Peking University
 * AAAI Tutorial Grant<br>
@@ -74,7 +74,7 @@ Non-Autoregressive Transformer. In **AAAI'23**.
 * Pacemaker to Merit Student（三好学生标兵）, Peking University<br>
 
 
-### Academic Services (Program Committee or Reviewer)
+### 8 Academic Services (Program Committee or Reviewer)
 * ACL Rolling (Area Chair/Action Editor)
 * 2023: ICLR, IJCAI (Senior PC), AACL (Website chair)
 * 2022: AAAI, IJCAI, NAACL, KDD, ICLR, EMNLP (Area Chair)
