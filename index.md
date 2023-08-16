@@ -28,7 +28,7 @@ Non-Autoregressive Transformer. [[pdf]]()[[code]]() In **AAAI'23** (**CCF A**)
 
 #### 2.2 Pretrained Language Models 
 * (**OpenBT5: An Open-Sourced 14B bilingual Flan-T5 Model Pre-trained From scratch**)[[Report]]()[[Model & Code]]()
-* [**AI J**] Yue Wang, Lijun Wu, **Juntao Li<sup>#</sup>**, Xiaobo Liang, Min Zhang. Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations**<sup>#</sup>**. **Artificial Intelligence**. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)(**CCF A**)
+* [**AI J**] Yue Wang, Lijun Wu, **Juntao Li<sup>#</sup>**, Xiaobo Liang, Min Zhang. Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. **Artificial Intelligence**. [[pdf]](https://openreview.net/forum?id=YLglAn-USkf)(**CCF A**)
 * [**ACL-23**] Yixin Ji, Jikai Wang, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. Early Exit with Disentangled Representation and Equiangular Tight Frame. [[pdf]]()[[code]]() **ACL 2023 Findings** 
 * [**EMNLP-22**] Zhaochen Su<sup>\*</sup>, Zecheng Tang<sup>*</sup>, Xinyan Guan, **Juntao Li<sup>#</sup>**, Lijun Wu, Min Zhang. Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change. [[pdf]]()[[code]]() In **EMNLP'22**. (**CCF B**) 
 * [**COLING-22**] Dan Qiao, Chenchen Dai, Yuyang Ding, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. SelfMix: Robust Learning Against Textual Label Noise with Self-Mixup Training. In **COLING'22**. (**Oral**) [[pdf]]()[[code]](https://github.com/noise-learning/SelfMix) (**CCF B**) 
