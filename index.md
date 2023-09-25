@@ -27,7 +27,7 @@ Non-Autoregressive Transformer. [[pdf]](https://arxiv.org/pdf/2303.07665.pdf)[[c
 
 
 #### 2.2 Pretrained Language Models 
-* (**OpenBT5: An Open-Sourced 14B Bilingual Flan-T5 Model Pre-trained From scratch**)[[Report]]()[[Model & Code]]()
+* (**OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratchh**)[[Report]](https://arxiv.org/pdf/2309.10706.pdf)[[Model & Code]](https://github.com/OpenNLG/openBA)
 * [**AI J**] Yue Wang, Lijun Wu, **Juntao Li<sup>#</sup>**, Xiaobo Liang, Min Zhang. Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. **Artificial Intelligence**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0004370223000991)[[code]](https://github.com/wangyuenlp/bert_%20family_zero_shot)(**CCF A**)
 * [**ACL-23**] Yixin Ji, Jikai Wang, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. Early Exit with Disentangled Representation and Equiangular Tight Frame. [[pdf]](https://aclanthology.org/2023.findings-acl.889.pdf)[[code]](https://github.com/Jikai0Wang/DREE) **ACL 2023 Findings** 
 * [**EMNLP-22**] Zhaochen Su<sup>\*</sup>, Zecheng Tang<sup>*</sup>, Xinyan Guan, **Juntao Li<sup>#</sup>**, Lijun Wu, Min Zhang. Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change. [[pdf]](https://arxiv.org/pdf/2210.17127.pdf)[[code]](https://github.com/zhaochen0110/LMLM) In **EMNLP'22**. (**CCF B**) 
