@@ -1,10 +1,10 @@
 ### About Me
 
-Dr. Juntao Li is now an associate professor at [School of Computer Science & Technology, Soochow University](http://scst.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](https://scholar.google.com.hk/citations?user=eLw6g-UAAAAJ&hl=zh-CN), Prof. Dongyan Zhao, and Prof. Dongmin Chen. 
+Dr. Juntao Li is now an associate professor at [School of Computer Science & Technology, Soochow University](http://scst.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](https://scholar.google.com.hk/citations?user=eLw6g-UAAAAJ&hl=zh-CN), Prof. [Dongyan Zhao](https://scholar.google.com/citations?user=lhR8-68AAAAJ&hl=zh-CN), and Prof. Dongmin Chen. 
 
 
 
-**I am leading a research group on language models. We are dedicated to building application-oriented, open-source, large-size language models with transparency, reusability, and low-cost deployment. More details can be found at [https://opennlg.cn/]**
+**I am leading a research group on language models. We are dedicated to building application-oriented, open-source, large-size language models with transparency, reusability, and low-cost deployment. More details can be found at [OpenNLG](https://opennlg.cn/)**
 ```
 
 ### 1. Contact
