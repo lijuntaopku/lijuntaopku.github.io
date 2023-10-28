@@ -1,6 +1,6 @@
 ### About Me
 
-Dr. Juntao Li is now an associate professor at [School of Computer Science & Technology, Soochow University](http://scst.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](https://scholar.google.com.hk/citations?user=eLw6g-UAAAAJ&hl=zh-CN) and Prof. Dongmin Chen. 
+Dr. Juntao Li is now an associate professor at [School of Computer Science & Technology, Soochow University](http://scst.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](https://scholar.google.com.hk/citations?user=eLw6g-UAAAAJ&hl=zh-CN), Prof. Dongyan Zhao, and Prof. Dongmin Chen. 
 
 ### 1. Contact
 ljtsudanlp@gmail.com<br>
@@ -8,8 +8,27 @@ ljt@suda.edu.cn
 
 ### 2. Research Interests and Selected Papers
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author )
-#### 2.1 Natural Language Generation
-* [**TPAMI**] Yisheng Xiao, Lijun Wu, Junliang Guo, **Juntao Li<sup>#</sup>**, Min Zhang, Tao Qin, Tie-yan Liu. A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond. **TPAMI**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf) (**CCF A**) 
+
+#### 2.1 Pretrained Language Models 
+* (**OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch**)[[Report]](https://arxiv.org/pdf/2309.10706.pdf)[[Model & Code]](https://github.com/OpenNLG/openBA)
+* [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023**. [[pdf]]()(**CCF B**)
+* [**EMNLP-23**] Chuyue Zhou, WangJie You, **Juntao Li<sup>#</sup>**, Jing Ye, Kehai Chen, Min Zhang. INFORM : Information eNtropy based multi-step reasoning FOR large language Models. **EMNLP 2023**. [[pdf]]()(**CCF B**)
+* [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023 Findings**. [[pdf]]()
+* [**EMNLP-23**] Chuyue Zhou, WangJie You, **Juntao Li<sup>#</sup>**, Jing Ye, Kehai Chen, Min Zhang. INFORM : Information eNtropy based multi-step reasoning FOR large language Models. **EMNLP 2023 Findings**. [[pdf]]()
+* [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023 Findings**. [[pdf]]()
+* [**EMNLP-23**] Chuyue Zhou, WangJie You, **Juntao Li<sup>#</sup>**, Jing Ye, Kehai Chen, Min Zhang. INFORM : Information eNtropy based multi-step reasoning FOR large language Models. **EMNLP 2023 Findings**. [[pdf]]()
+* [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023 Findings**. [[pdf]]()
+* [**AI J**] Yue Wang, Lijun Wu, **Juntao Li<sup>#</sup>**, Xiaobo Liang, Min Zhang. Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. **Artificial Intelligence**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0004370223000991)[[code]](https://github.com/wangyuenlp/bert_%20family_zero_shot)(**CCF A**)
+* [**ACL-23**] Yixin Ji, Jikai Wang, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. Early Exit with Disentangled Representation and Equiangular Tight Frame. [[pdf]](https://aclanthology.org/2023.findings-acl.889.pdf)[[code]](https://github.com/Jikai0Wang/DREE) **ACL 2023 Findings** 
+* [**EMNLP-22**] Zhaochen Su<sup>\*</sup>, Zecheng Tang<sup>*</sup>, Xinyan Guan, **Juntao Li<sup>#</sup>**, Lijun Wu, Min Zhang. Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change. [[pdf]](https://arxiv.org/pdf/2210.17127.pdf)[[code]](https://github.com/zhaochen0110/LMLM) In **EMNLP'22**. (**CCF B**) 
+* [**COLING-22**] Dan Qiao, Chenchen Dai, Yuyang Ding, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. SelfMix: Robust Learning Against Textual Label Noise with Self-Mixup Training. In **COLING'22**. (**Oral**) [[pdf]](https://arxiv.org/pdf/2210.04525.pdf)[[code]](https://github.com/noise-learning/SelfMix) (**CCF B**) 
+* [**EMNLP-20**] Hai Ye, Qingyu Tan, Ruidan He, **Juntao Li**, Hwee Tou Ng, Lidong Bing.  Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training. In **EMNLP'20**. Full paper. [[pdf]](https://aclanthology.org/2020.emnlp-main.599.pdf)[[code]]((https://github.com/oceanypt/CFd)) (**CCF B**) 
+* [**IJCAI-20**] **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](./IJCAI__PRICAI__2020.pdf) [[code]](https://github.com/lijuntaopku/UFD)(**CCF A**)
+  
+#### 2.2 Natural Language Generation
+* [**TPAMI**] Yisheng Xiao, Lijun Wu, Junliang Guo, **Juntao Li<sup>#</sup>**, Min Zhang, Tao Qin, Tie-yan Liu. A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond. **TPAMI**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf) (**CCF A**)
+* [**WSDM-24**] Yue Wang, Zilong Zheng, Zecheng Tang, **Juntao Li<sup>#</sup>**, Zhihui Liu, Kunlong Chen, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Min Zhang. Towards Better Chinese Spelling Check for Search Engines: A New Dataset and Strong Baseline. **WSDM 2024**. [[pdf]]()(**CCF B**)
+* [**NeurIPS-23**] Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen. AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation. **WSDM 2024**. [[pdf]]()(**CCF A**)
 * [**ACL-23**] Xiaobo Liang, Zecheng Tang, **Juntao Li<sup>#</sup>**, Min Zhang. Open-ended Long Text Generation via Masked Language Modeling. [[pdf]](https://aclanthology.org/2023.acl-long.13.pdf)[[code]](https://github.com/dropreg/OpenLTG-MLM) **ACL 2023** (**CCF A**) 
 * [**ACL-23**] Xiaobo Liang, **Juntao Li<sup>#</sup>**, Lijun Wu, Ziqiang Cao and Min Zhang. Dynamic and Efficient Inference for Text Generation via BERT Family. [[pdf]](https://aclanthology.org/2023.acl-long.162.pdf)[[code]](https://github.com/dropreg/DEER) **ACL 2023** (**CCF A**) 
 * [**ACL-23**] Yue Wang, Dan Qiao, **Juntao Li<sup>#</sup>**, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Guannan Zhang and Min Zhang. Towards Better Hierarchical Text Classification with Data Generation. [[pdf]](https://aclanthology.org/2023.findings-acl.489.pdf)[[code]](https://github.com/wangyuenlp/Data-Generation-for-HTC) **ACL 2023 Findings** 
@@ -26,15 +45,6 @@ Non-Autoregressive Transformer. [[pdf]](https://arxiv.org/pdf/2303.07665.pdf)[[c
 * [**EMNLP-18**] **Juntao Li**, Yan Song, Haisong Zhang, Dongmin Chen, Shuming Shi, Dongyan Zhao, and Rui Yan. Generating Classical Chinese Poems via Conditional Variational Autoencoder and Adversarial Training. In **EMNLP'18**. Full paper. [[pdf]](https://www.aclweb.org/anthology/D18-1423.pdf) (**CCF B**)
 
 
-#### 2.2 Pretrained Language Models 
-* (**OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratchh**)[[Report]](https://arxiv.org/pdf/2309.10706.pdf)[[Model & Code]](https://github.com/OpenNLG/openBA)
-* [**AI J**] Yue Wang, Lijun Wu, **Juntao Li<sup>#</sup>**, Xiaobo Liang, Min Zhang. Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. **Artificial Intelligence**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0004370223000991)[[code]](https://github.com/wangyuenlp/bert_%20family_zero_shot)(**CCF A**)
-* [**ACL-23**] Yixin Ji, Jikai Wang, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. Early Exit with Disentangled Representation and Equiangular Tight Frame. [[pdf]](https://aclanthology.org/2023.findings-acl.889.pdf)[[code]](https://github.com/Jikai0Wang/DREE) **ACL 2023 Findings** 
-* [**EMNLP-22**] Zhaochen Su<sup>\*</sup>, Zecheng Tang<sup>*</sup>, Xinyan Guan, **Juntao Li<sup>#</sup>**, Lijun Wu, Min Zhang. Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change. [[pdf]](https://arxiv.org/pdf/2210.17127.pdf)[[code]](https://github.com/zhaochen0110/LMLM) In **EMNLP'22**. (**CCF B**) 
-* [**COLING-22**] Dan Qiao, Chenchen Dai, Yuyang Ding, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. SelfMix: Robust Learning Against Textual Label Noise with Self-Mixup Training. In **COLING'22**. (**Oral**) [[pdf]](https://arxiv.org/pdf/2210.04525.pdf)[[code]](https://github.com/noise-learning/SelfMix) (**CCF B**) 
-* [**EMNLP-20**] Hai Ye, Qingyu Tan, Ruidan He, **Juntao Li**, Hwee Tou Ng, Lidong Bing.  Feature Adaptation of Pre-Trained Language Models across Languages and Domains with Robust Self-Training. In **EMNLP'20**. Full paper. [[pdf]](https://aclanthology.org/2020.emnlp-main.599.pdf)[[code]]((https://github.com/oceanypt/CFd)) (**CCF B**) 
-* [**IJCAI-20**] **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](./IJCAI__PRICAI__2020.pdf) [[code]](https://github.com/lijuntaopku/UFD)(**CCF A**)
-
 #### 2.3 Dialogue Systems
 * [**FnTIR**] Rui Yan, **Juntao Li<sup>#</sup>**, Zhou Yu. Deep Learning for Dialogue System: Chit-Chat and Beyond. **Foundations and Trends® in Information Retrieval**. 2022, [[pdf]](./INR-083.pdf) (**SCI Q1, IF=8.0, 129 pages + 42 pages references**)
 * [**ACL-23**] Chongyang Tao, Jiazhan Feng, Tao Shen, Chang Liu, **Juntao Li**, Xiubo Geng, Daxin Jiang. CORE: Cooperative Training of Retriever-Reranker for Effective Dialogue Response Selection. [[pdf]](https://aclanthology.org/2023.acl-long.174.pdf) **ACL 2023** (**CCF A**) 
@@ -45,12 +55,14 @@ Non-Autoregressive Transformer. [[pdf]](https://arxiv.org/pdf/2303.07665.pdf)[[c
 
 
 ### 3. Grants
+* 第九届中国科协青年人才托举工程项目, PI
 * National Science Foundation of China, No. 62206194, PI
 * Natural Science Foundation of Jiangsu Province, No. BK20220488, PI
 * Alibaba Innovation Research Grant, Co-PI
 * Wudao Open Fund (BAAI), PI
 
 ### 4. Experiences
+* Microsoft Research Aisa （2023/03-2023/06） <br>
 * National University of Singapore （2019/09-2020/02） <br>
 * Alibaba Damo Academy (2018/11-2019/06)<br>
 * Tencent AI Lab (2018/04-2018/06)<br>
