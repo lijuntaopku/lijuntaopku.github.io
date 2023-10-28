@@ -4,8 +4,7 @@ Dr. Juntao Li is now an associate professor at [School of Computer Science & Tec
 
 
 
-```diff
-! I am leading a research group on language models. We are dedicated to building application-oriented, open-source, large-size language models with transparency, reusability, and low-cost deployment. More details can be found at https://opennlg.cn/.
+**I am leading a research group on language models. We are dedicated to building application-oriented, open-source, large-size language models with transparency, reusability, and low-cost deployment. More details can be found at [https://opennlg.cn/]**
 ```
 
 ### 1. Contact
@@ -19,11 +18,11 @@ ljt@suda.edu.cn
 * (**OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch**)[[Report]](https://arxiv.org/pdf/2309.10706.pdf)[[Model & Code]](https://github.com/OpenNLG/openBA)
 * [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023**. [[pdf]]()(**CCF B**)
 * [**EMNLP-23**] Chuyue Zhou, WangJie You, **Juntao Li<sup>#</sup>**, Jing Ye, Kehai Chen, Min Zhang. INFORM : Information eNtropy based multi-step reasoning FOR large language Models. **EMNLP 2023**. [[pdf]]()(**CCF B**)
-* [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023 Findings**. [[pdf]]()
-* [**EMNLP-23**] Chuyue Zhou, WangJie You, **Juntao Li<sup>#</sup>**, Jing Ye, Kehai Chen, Min Zhang. INFORM : Information eNtropy based multi-step reasoning FOR large language Models. **EMNLP 2023 Findings**. [[pdf]]()
-* [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023 Findings**. [[pdf]]()
-* [**EMNLP-23**] Chuyue Zhou, WangJie You, **Juntao Li<sup>#</sup>**, Jing Ye, Kehai Chen, Min Zhang. INFORM : Information eNtropy based multi-step reasoning FOR large language Models. **EMNLP 2023 Findings**. [[pdf]]()
-* [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023 Findings**. [[pdf]]()
+* [**EMNLP-23**] Yixin Ji, Jikai Wang, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Isotropic Representation Can Improve Zero-Shot Cross-Lingual Transfer on Multilingual Language Models. **EMNLP 2023 Findings**. [[pdf]]()
+* [**EMNLP-23**] Zhaochen Su, **Juntao Li<sup>#</sup>**, Zikang Zhang, Zihan Zhou, Min Zhang . Efficient Continue Training of Temporal Language Model with Structural Information. **EMNLP 2023 Findings**. [[pdf]]()
+* [**EMNLP-23**] Haoke Zhang, Yue Wang, **Juntao Li<sup>#</sup>**, Xiabing Zhou, Min Zhang. G-SPEED: General SParse Efficient Editing MoDel. **EMNLP 2023 Findings**. [[pdf]]()
+* [**EMNLP-23**] Pei Guo, yisheng xiao, **Juntao Li<sup>#</sup>**, Yixin Ji, Min Zhang. Isotropy-Enhanced Conditional Masked Language Models. **EMNLP 2023 Findings**. [[pdf]]()
+* [**EMNLP-23**] Lei Geng, Xu Yan, Ziqiang Cao, Juntao Li, Wenjie Li, Sujian Li, Xinjie Zhou, Yang Yang, Jun Zhang. KBioXLM: A Knowledge-anchored Biomedical Multilingual Pretrained Language Model. **EMNLP 2023 Findings**. [[pdf]]()
 * [**AI J**] Yue Wang, Lijun Wu, **Juntao Li<sup>#</sup>**, Xiaobo Liang, Min Zhang. Are BERT Families Zero-Shot Learners? A Study on Their Potential and Limitations. **Artificial Intelligence**. [[pdf]](https://www.sciencedirect.com/science/article/pii/S0004370223000991)[[code]](https://github.com/wangyuenlp/bert_%20family_zero_shot)(**CCF A**)
 * [**ACL-23**] Yixin Ji, Jikai Wang, **Juntao Li<sup>#</sup>**, Qiang Chen, Wenliang Chen and Min Zhang. Early Exit with Disentangled Representation and Equiangular Tight Frame. [[pdf]](https://aclanthology.org/2023.findings-acl.889.pdf)[[code]](https://github.com/Jikai0Wang/DREE) **ACL 2023 Findings** 
 * [**EMNLP-22**] Zhaochen Su<sup>\*</sup>, Zecheng Tang<sup>*</sup>, Xinyan Guan, **Juntao Li<sup>#</sup>**, Lijun Wu, Min Zhang. Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change. [[pdf]](https://arxiv.org/pdf/2210.17127.pdf)[[code]](https://github.com/zhaochen0110/LMLM) In **EMNLP'22**. (**CCF B**) 
