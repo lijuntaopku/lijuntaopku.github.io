@@ -16,6 +16,8 @@ ljt@suda.edu.cn
 
 #### 2.1 Pretrained Language Models 
 * (**OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch**)[[Report]](https://arxiv.org/pdf/2309.10706.pdf)[[Model & Code]](https://github.com/OpenNLG/openBA)
+* [**ICLR-24**] Yisheng Xiao, **Juntao Li<sup>#</sup>**, Zechen Sun, Zechang Li, Qingrong Xia, Xinyu Duan, Zhefeng Wang, Min Zhang. Are Bert Family Good Instruction Followers? A Study on Their Potential And Limitations. 
+* [**ICLR-24**] Zecheng Tang, Chenfei Wu, Juntao Li, Nan Duan. LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models.
 * [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023**. [[pdf]]()(**CCF B**)
 * [**EMNLP-23**] Chuyue Zhou, WangJie You, **Juntao Li<sup>#</sup>**, Jing Ye, Kehai Chen, Min Zhang. INFORM : Information eNtropy based multi-step reasoning FOR large language Models. **EMNLP 2023**. [[pdf]]()(**CCF B**)
 * [**EMNLP-23**] Yixin Ji, Jikai Wang, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Isotropic Representation Can Improve Zero-Shot Cross-Lingual Transfer on Multilingual Language Models. **EMNLP 2023 Findings**. [[pdf]]()
@@ -31,7 +33,8 @@ ljt@suda.edu.cn
 * [**IJCAI-20**] **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](./IJCAI__PRICAI__2020.pdf) [[code]](https://github.com/lijuntaopku/UFD)(**CCF A**)
   
 #### 2.2 Natural Language Generation
-* [**TPAMI**] Yisheng Xiao, Lijun Wu, Junliang Guo, **Juntao Li<sup>#</sup>**, Min Zhang, Tao Qin, Tie-yan Liu. A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond. **TPAMI**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf) (**CCF A**)
+* [**TPAMI**] **Juntao Li**, Xiaobo Liang, Lijun Wu, Yue Wang, Qi Meng, Tao Qin, Tie-yan Liu, Min Zhang. Randomness Regularization with Simple Consistency Training for Neural Networks. **TPAMI, 2024**
+* [**TPAMI**] Yisheng Xiao, Lijun Wu, Junliang Guo, **Juntao Li<sup>#</sup>**, Min Zhang, Tao Qin, Tie-yan Liu. A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond. **TPAMI, 2023**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf) (**CCF A**)
 * [**WSDM-24**] Yue Wang, Zilong Zheng, Zecheng Tang, **Juntao Li<sup>#</sup>**, Zhihui Liu, Kunlong Chen, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Min Zhang. Towards Better Chinese Spelling Check for Search Engines: A New Dataset and Strong Baseline. **WSDM 2024**. [[pdf]]()(**CCF B**)
 * [**NeurIPS-23**] Tong Wu, Zhihao Fan, Xiao Liu, Yeyun Gong, Yelong Shen, Jian Jiao, Hai-Tao Zheng, Juntao Li, Zhongyu Wei, Jian Guo, Nan Duan, Weizhu Chen. AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation. **WSDM 2024**. [[pdf]]()(**CCF A**)
 * [**ACL-23**] Xiaobo Liang, Zecheng Tang, **Juntao Li<sup>#</sup>**, Min Zhang. Open-ended Long Text Generation via Masked Language Modeling. [[pdf]](https://aclanthology.org/2023.acl-long.13.pdf)[[code]](https://github.com/dropreg/OpenLTG-MLM) **ACL 2023** (**CCF A**) 
