@@ -1,6 +1,6 @@
 ### About Me
 
-Dr. Juntao Li is now an associate professor at [School of Computer Science & Technology, Soochow University](http://scst.suda.edu.cn/). Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](https://scholar.google.com.hk/citations?user=eLw6g-UAAAAJ&hl=zh-CN), Prof. [Dongyan Zhao](https://scholar.google.com/citations?user=lhR8-68AAAAJ&hl=zh-CN), and Prof. Dongmin Chen. 
+Dr. Juntao Li is now an associate professor at [School of Computer Science & Technology, Soochow University](http://scst.suda.edu.cn/), working with Prof. Min Zhang. Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](https://scholar.google.com.hk/citations?user=eLw6g-UAAAAJ&hl=zh-CN), Prof. [Dongyan Zhao](https://scholar.google.com/citations?user=lhR8-68AAAAJ&hl=zh-CN), and Prof. Dongmin Chen. 
 
 
 
@@ -16,6 +16,13 @@ ljt@suda.edu.cn
 
 #### 2.1 Pretrained Language Models 
 * (**OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch**)[[Report]](https://arxiv.org/pdf/2309.10706.pdf)[[Model & Code]](https://github.com/OpenNLG/openBA)
+* [**ACL-24**] Feature-based Low-Rank Compression of Large Language Models via Bayesian Optimization.
+* [**ACL-24**] Exploring Reversal Mathematical Reasoning Ability for Large Language Models.
+* [**ACL-24**] Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?.
+* [**ACL-24**] CMD: a framework for Context-aware Model self-Detoxification.
+* [**ACL-24**] Demonstration Augmentation for Zero-shot In-context Learning.
+* [**ACL-24**] Rethinking Negative Instances for Generative Named Entity Recognition.
+* [**ICML-24**] Zecheng Tang, Chenfei Wu, Zekai Zhang, Mingheng Ni, Shengming Yin, Yu Liu, Zhengyuan Yang, Lijuan Wang, Zicheng Liu, Juntao Li, Nan Duan. StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis.
 * [**ICLR-24**] Yisheng Xiao, **Juntao Li<sup>#</sup>**, Zechen Sun, Zechang Li, Qingrong Xia, Xinyu Duan, Zhefeng Wang, Min Zhang. Are Bert Family Good Instruction Followers? A Study on Their Potential And Limitations. 
 * [**ICLR-24**] Zecheng Tang, Chenfei Wu, Juntao Li, Nan Duan. LayoutNUWA: Revealing the Hidden Layout Expertise of Large Language Models.
 * [**EMNLP-23**] Yi Su, Yixin Ji, **Juntao Li<sup>#</sup>**, Hai Ye, Min Zhang. Beware of Model Collapse! Fast and Stable Test-time Adaptation for Robust Question Answering. **EMNLP 2023**. [[pdf]]()(**CCF B**)
@@ -33,6 +40,7 @@ ljt@suda.edu.cn
 * [**IJCAI-20**] **Juntao Li**, Ruidan He, Hai Ye, Hwee Tou Ng, Lidong Bing, and Rui Yan. Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model. In **IJCAI-PRICAI'20**. Full paper. [[pdf]](./IJCAI__PRICAI__2020.pdf) [[code]](https://github.com/lijuntaopku/UFD)(**CCF A**)
   
 #### 2.2 Natural Language Generation
+* [**ACL-24**] Efficient Domain Adaptation for Non-Autoregressive Machine Translation.
 * [**TPAMI**] **Juntao Li**, Xiaobo Liang, Lijun Wu, Yue Wang, Qi Meng, Tao Qin, Tie-yan Liu, Min Zhang. Randomness Regularization with Simple Consistency Training for Neural Networks. **TPAMI, 2024**
 * [**TPAMI**] Yisheng Xiao, Lijun Wu, Junliang Guo, **Juntao Li<sup>#</sup>**, Min Zhang, Tao Qin, Tie-yan Liu. A Survey on Non-Autoregressive Generation for Neural Machine Translation and Beyond. **TPAMI, 2023**. [[pdf]](https://arxiv.org/pdf/2204.09269.pdf) (**CCF A**)
 * [**WSDM-24**] Yue Wang, Zilong Zheng, Zecheng Tang, **Juntao Li<sup>#</sup>**, Zhihui Liu, Kunlong Chen, Jinxiong Chang, Qishen Zhang, Zhongyi Liu, Min Zhang. Towards Better Chinese Spelling Check for Search Engines: A New Dataset and Strong Baseline. **WSDM 2024**. [[pdf]]()(**CCF B**)
