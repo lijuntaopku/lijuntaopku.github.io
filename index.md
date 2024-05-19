@@ -78,10 +78,10 @@ Non-Autoregressive Transformer. [[pdf]](https://arxiv.org/pdf/2303.07665.pdf)[[c
 * Wudao Open Fund (BAAI), PI
 
 ### 4. Experiences
-* Microsoft Research Aisa （2023/03-2023/06） <br>
-* National University of Singapore （2019/09-2020/02） <br>
-* Alibaba Damo Academy (2018/11-2019/06)<br>
-* Tencent AI Lab (2018/04-2018/06)<br>
+* Microsoft Research Aisa （2023/03-2023/06）, Supervised by Nan Duan <br>
+* National University of Singapore （2019/09-2020/02）, Supervised by Hwee Tou Ng <br>
+* Alibaba Damo Academy (2018/11-2019/06), Supervised by Lidong Bing and Xiaozhong Liu<br>
+* Tencent AI Lab (2018/04-2018/06), Supervised by Yan Song and Lidong Bing<br>
 * Georgia Institute of Technology (2014/01-2014/05)
 
 ### 5. Tutorials and Talks
