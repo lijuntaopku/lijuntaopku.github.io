@@ -1,6 +1,6 @@
 ### About Me
 
-Dr. Juntao Li is now an associate professor at [School of Computer Science & Technology, Soochow University](http://scst.suda.edu.cn/), working with Prof. Min Zhang. Before that, he obtained the doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](https://scholar.google.com.hk/citations?user=eLw6g-UAAAAJ&hl=zh-CN), Prof. [Dongyan Zhao](https://scholar.google.com/citations?user=lhR8-68AAAAJ&hl=zh-CN), and Prof. Dongmin Chen. 
+Dr. Juntao Li is now an associate professor at [School of Computer Science & Technology, Soochow University](http://scst.suda.edu.cn/), working with Prof. [Min Zhang](https://scholar.google.com/citations?user=CncXH-YAAAAJ&hl=zh-CN). Before that, he obtained a doctoral degree from Peking University in 2020, supervised by [Dr. Rui Yan](https://scholar.google.com.hk/citations?user=eLw6g-UAAAAJ&hl=zh-CN), Prof. [Dongyan Zhao](https://scholar.google.com/citations?user=lhR8-68AAAAJ&hl=zh-CN), and Prof. Dongmin Chen. 
 
 
 
@@ -78,10 +78,10 @@ Non-Autoregressive Transformer. [[pdf]](https://arxiv.org/pdf/2303.07665.pdf)[[c
 * Wudao Open Fund (BAAI), PI
 
 ### 4. Experiences
-* Microsoft Research Aisa （2023/03-2023/06）, Supervised by Nan Duan <br>
-* National University of Singapore （2019/09-2020/02）, Supervised by Hwee Tou Ng <br>
-* Alibaba Damo Academy (2018/11-2019/06), Supervised by Lidong Bing and Xiaozhong Liu<br>
-* Tencent AI Lab (2018/04-2018/06), Supervised by Yan Song and Lidong Bing<br>
+* Microsoft Research Aisa （2023/03-2023/06）, Supervised by [Nan Duan](https://scholar.google.com/citations?hl=zh-CN&user=Qaa6OxIAAAAJ) <br>
+* National University of Singapore （2019/09-2020/02）, Supervised by [Hwee Tou Ng](https://scholar.google.com/citations?user=FABZCeAAAAAJ&hl=zh-CN) <br>
+* Alibaba Damo Academy (2018/11-2019/06), Supervised by [Lidong Bing](https://scholar.google.com/citations?user=_oYzrzAAAAAJ&hl=zh-CN) and [Xiaozhong Liu](https://scholar.google.com/citations?user=1BUByMcAAAAJ&hl=zh-CN)<br>
+* Tencent AI Lab (2018/04-2018/06), Supervised by [Yan Song](https://scholar.google.com/citations?hl=zh-CN&user=MsRp7g0AAAAJ) and [Lidong Bing](https://scholar.google.com/citations?user=_oYzrzAAAAAJ&hl=zh-CN)<br>
 * Georgia Institute of Technology (2014/01-2014/05)
 
 ### 5. Tutorials and Talks
@@ -94,11 +94,12 @@ Non-Autoregressive Transformer. [[pdf]](https://arxiv.org/pdf/2303.07665.pdf)[[c
 * Yi Deng (Undergraduate student of Soochow University > University College London (UCL), Master)
 
 ### 7. Selected Awards
+* 
 * Startrack Visiting Scholars (铸星计划), Microsoft Research Aisa
 * Outstanding Graduates Awards (优秀毕业生), Peking University
 * AAAI Tutorial Grant<br>
 * National Scholarship (国家奖学金), Peking University<br>
-* Pacemaker to Merit Student (三好学生标兵), Peking University<br>
+  
 
 
 ### 8 Academic Services (Program Committee or Reviewer)
