@@ -15,7 +15,7 @@ ljt@suda.edu.cn
 (<sup>'*'</sup> = equal contribution, <sup>'#'</sup> = corresponding author )
 
 #### 2.1 Pretrained Language Models 
-* (**OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch**)[[Report]](https://arxiv.org/pdf/2309.10706.pdf)[[Model & Code]](https://github.com/OpenNLG/openBA)
+* (**OpenBA: An Open-sourced 15B Bilingual Asymmetric seq2seq Model Pre-trained from Scratch**)[[paper]](https://arxiv.org/pdf/2309.10706.pdf)[[Model & Code]](https://github.com/OpenNLG/openBA), SCIS, **CCF-A**
 * [**ACL-24**] Feature-based Low-Rank Compression of Large Language Models via Bayesian Optimization.
 * [**ACL-24**] Exploring Reversal Mathematical Reasoning Ability for Large Language Models.
 * [**ACL-24**] Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?.
