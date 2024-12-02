@@ -8,7 +8,6 @@ Dr. Juntao Li is now an associate professor at [School of Computer Science & Tec
 
 
 ### 1. Contact
-ljtsudanlp@gmail.com<br>
 ljt@suda.edu.cn
 
 ### 2. Research Interests and Selected Papers
